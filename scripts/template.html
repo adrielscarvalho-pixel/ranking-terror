@@ -83,6 +83,20 @@ nav.tabs button:focus-visible, .controls input:focus-visible, .controls select:f
 .links { display: flex; flex-wrap: wrap; gap: 6px 14px; font-family: var(--f-data); font-size: 12px; }
 a { color: var(--blood); }
 .empty { color: var(--muted); padding: 24px 0; }
+.foot { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 16px; }
+.seen-btn { font: 500 13px var(--f-body); color: var(--ink); background: transparent; border: 1px solid var(--ink); padding: 5px 12px; border-radius: 2px; cursor: pointer; display: inline-flex; align-items: center; gap: 6px; }
+.seen-btn::before { content: ""; width: 12px; height: 12px; border: 1.5px solid currentColor; border-radius: 2px; box-sizing: border-box; }
+.seen-btn[aria-pressed="true"] { background: var(--blood); border-color: var(--blood); color: var(--card); }
+.seen-btn[aria-pressed="true"]::before { content: "✓"; border: 0; width: auto; height: auto; font-size: 13px; line-height: 1; }
+.seen-btn:focus-visible { outline: 2px solid var(--blood); outline-offset: 2px; }
+.ficha.seen .poster { opacity: .5; filter: grayscale(.6); }
+.ficha.seen h3::after { content: "visto"; font-family: var(--f-data); font-size: 10px; font-weight: 500; letter-spacing: .08em; text-transform: uppercase; color: var(--blood); border: 1px solid var(--blood); padding: 1px 6px; margin-left: 8px; vertical-align: 3px; }
+nav.tabs .tc { font-family: var(--f-data); font-size: 11px; opacity: .75; margin-left: 4px; }
+.progress { display: grid; gap: 6px; margin-bottom: 16px; }
+.progress .txt { font-size: 13px; color: var(--muted); }
+.progress .txt b { color: var(--ink); font-weight: 600; }
+.progress .track { height: 4px; background: var(--line); position: relative; }
+.progress .track i { position: absolute; inset: 0 auto 0 0; background: var(--blood); }
 .tablewrap { overflow-x: auto; border: 1px solid var(--line); background: var(--card); }
 table { border-collapse: collapse; width: 100%; font-size: 14px; }
 th, td { text-align: left; padding: 10px 12px; border-bottom: 1px solid var(--line); vertical-align: top; }
@@ -125,8 +139,11 @@ footer { margin-top: 40px; padding-top: 16px; border-top: 1px solid var(--line);
   <div class="controls" id="controls">
     <input id="q" type="search" placeholder="Buscar título, diretor…" aria-label="Buscar">
     <select id="svc" aria-label="Filtrar por streaming"><option value="">Qualquer streaming</option></select>
+    <select id="seen" aria-label="Filtrar por já assistidos"><option value="">Vistos e não vistos</option><option value="no">Só os que não vi</option><option value="yes">Só os que já vi</option></select>
     <span class="count" id="count"></span>
   </div>
+
+  <div class="progress" id="progress"><div class="txt" id="progress-txt"></div><div class="track"><i id="progress-bar" style="width:0%"></i></div></div>
 
   <main id="view"></main>
 
@@ -149,6 +166,13 @@ const TIERS = {
 };
 let tab = 'filmes';
 
+// "Já assisti" fica salvo só neste navegador (localStorage), por IMDb ID.
+const KEY = 'ranking-terror:vistos';
+let seen = new Set();
+try { seen = new Set(JSON.parse(localStorage.getItem(KEY) || '[]')); } catch (e) {}
+function saveSeen() { try { localStorage.setItem(KEY, JSON.stringify([...seen])); } catch (e) {} }
+const LISTS = { filmes: 'filmes', series: 'séries', minisseries: 'minisséries', radar: 'do radar' };
+
 $('#snap').textContent = 'Dados coletados em ' + DATA.gerado_em + ' · IMDb · Rotten Tomatoes · Metacritic · JustWatch BR';
 $('#podium').innerHTML = [['Melhor filme', DATA.filmes[0]], ['Melhor série', DATA.series[0]], ['Melhor minissérie', DATA.minisseries[0]]]
   .map(([k, x]) => `<div>${x.poster ? `<img src="${x.poster}" alt="Pôster de ${esc(x.titulo_br || x.titulo)}">` : ''}<div class="k">${k}</div><div class="v">${esc(x.titulo_br || x.titulo)}</div><div class="s">Índice ${br(x.indice)}</div></div>`).join('');
@@ -164,7 +188,8 @@ function ficha(x, showPos) {
   const mc = x.metascore != null ? `<span><em>Metascore</em> <b>${x.metascore}</b>${x.mc_criticas < 10 ? '*' : ''}</span>` : '';
   const pc = x.popcornmeter != null ? `<span><em>Popcorn</em> <b>${x.popcornmeter}%</b></span>` : '';
   const orig = x.titulo_br && x.titulo_br !== x.titulo ? `<div class="orig">${esc(x.titulo)} · ${x.ano}</div>` : `<div class="orig">${x.ano}</div>`;
-  return `<article class="ficha t${x.tier}">
+  const isSeen = seen.has(x.id);
+  return `<article class="ficha t${x.tier}${isSeen ? ' seen' : ''}">
     <div class="pos">${showPos ? x.posicao : '·'}</div>
     ${x.poster ? `<img class="poster" src="${x.poster}" alt="Pôster de ${esc(x.titulo_br || x.titulo)}" loading="lazy">` : '<div class="poster none">sem pôster</div>'}
     <div class="head">
@@ -180,7 +205,8 @@ function ficha(x, showPos) {
       <p class="note"><span class="dir">${esc(x.diretor)}.</span> ${esc(x.nota)}</p>
       ${x.obs ? `<p class="obs">Curadoria: ${esc(x.obs)}</p>` : ''}
       <div class="watch"><span class="lbl">No Brasil</span>${subs}${other}</div>
-      <div class="links"><a href="${x.links.imdb}" target="_blank" rel="noopener">IMDb</a><a href="${x.links.rt}" target="_blank" rel="noopener">Rotten Tomatoes</a>${x.links.justwatch ? `<a href="${x.links.justwatch}" target="_blank" rel="noopener">JustWatch</a>` : ''}${x.links.tmdb ? `<a href="${x.links.tmdb}" target="_blank" rel="noopener">TMDB</a>` : ''}</div>
+      <div class="foot"><button type="button" class="seen-btn" data-id="${x.id}" aria-pressed="${isSeen}">${isSeen ? 'Já assisti' : 'Marcar como visto'}</button>
+      <div class="links"><a href="${x.links.imdb}" target="_blank" rel="noopener">IMDb</a><a href="${x.links.rt}" target="_blank" rel="noopener">Rotten Tomatoes</a>${x.links.justwatch ? `<a href="${x.links.justwatch}" target="_blank" rel="noopener">JustWatch</a>` : ''}${x.links.tmdb ? `<a href="${x.links.tmdb}" target="_blank" rel="noopener">TMDB</a>` : ''}</div></div>
     </div>
   </article>`;
 }
@@ -188,13 +214,24 @@ function ficha(x, showPos) {
 function filtered(xs) {
   const q = $('#q').value.trim().toLowerCase();
   const svc = $('#svc').value;
+  const sf = $('#seen').value;
   return xs.filter(x => (!q || [x.titulo, x.titulo_br, x.diretor].join(' ').toLowerCase().includes(q)) &&
-    (!svc || x.onde_assistir.assinatura.some(s => s.startsWith(svc))));
+    (!svc || x.onde_assistir.assinatura.some(s => s.startsWith(svc))) &&
+    (!sf || (sf === 'yes') === seen.has(x.id)));
 }
 
 function render() {
   document.querySelectorAll('#tabs button').forEach(b => b.setAttribute('aria-selected', b.dataset.tab === tab));
-  $('#controls').hidden = tab === 'fronteira' || tab === 'metodo';
+  $('#controls').hidden = $('#progress').hidden = tab === 'fronteira' || tab === 'metodo';
+  Object.keys(LISTS).forEach(k => {
+    const b = $('#tab-' + k); const n = DATA[k].filter(x => seen.has(x.id)).length;
+    b.innerHTML = b.dataset.label + (n ? `<span class="tc">${n}/${DATA[k].length}</span>` : '');
+  });
+  if (LISTS[tab]) {
+    const n = DATA[tab].filter(x => seen.has(x.id)).length, tot = DATA[tab].length;
+    $('#progress-txt').innerHTML = n ? `Você já viu <b>${n} de ${tot}</b> ${LISTS[tab]} desta lista.` : `Marque o que você já viu: o progresso fica salvo neste navegador.`;
+    $('#progress-bar').style.width = (100 * n / tot) + '%';
+  }
   const v = $('#view');
   if (tab === 'fronteira') {
     v.innerHTML = `<p class="lede" style="margin-bottom:14px">Obras que ficaram de fora por regra. Estão aqui para você saber que não foram esquecidas.</p>
@@ -206,7 +243,7 @@ function render() {
   if (tab === 'metodo') { v.innerHTML = $('#metodo-tpl').innerHTML; return; }
   const xs = filtered(DATA[tab]);
   $('#count').textContent = xs.length + ' de ' + DATA[tab].length;
-  if (!xs.length) { v.innerHTML = '<p class="empty">Nenhuma obra com esse filtro. Limpe a busca ou escolha outro streaming.</p>'; return; }
+  if (!xs.length) { v.innerHTML = '<p class="empty">Nenhuma obra com esse filtro. Limpe a busca ou troque os filtros de streaming e de vistos.</p>'; return; }
   if (tab === 'radar') {
     v.innerHTML = `<p class="lede" style="margin-bottom:14px">Têm nota de elite (IMDb ≥ 6,8 e RT ≥ 90%), mas pouco volume de votos ou de críticas. Ficam fora do ranking principal e servem como garimpo.</p><div class="list">${xs.map(x => ficha(x, false)).join('')}</div>`;
     return;
@@ -226,6 +263,18 @@ document.querySelectorAll('#tabs button').forEach(b => b.addEventListener('click
 }));
 $('#q').addEventListener('input', render);
 $('#svc').addEventListener('change', render);
+$('#seen').addEventListener('change', render);
+document.querySelectorAll('#tabs button').forEach(b => { b.dataset.label = b.textContent; });
+$('#view').addEventListener('click', e => {
+  const b = e.target.closest('.seen-btn');
+  if (!b) return;
+  const id = b.dataset.id;
+  seen.has(id) ? seen.delete(id) : seen.add(id);
+  saveSeen();
+  render();
+  const again = document.querySelector(`.seen-btn[data-id="${id}"]`);
+  if (again) again.focus({ preventScroll: true });
+});
 const h = location.hash.slice(1);
 if (TABS.includes(h)) tab = h;
 render();
