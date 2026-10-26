@@ -73,49 +73,49 @@ Dados do **JustWatch Brasil** coletados em 25–26/out/2026.
 
 | # | Título | Ano | Índice | IMDb (votos) | Tomatometer (críticas) | Metascore | Popcornmeter | Onde ver no Brasil |
 |---:|---|---:|---:|---|---|---:|---:|---|
-| 1 | **Pecadores** <br><sub>Sinners</sub> | 2025 | **85,6** | 7,5 (536 mil) | 97% (441) | 84 | 96% | HBO Max, Netflix · aluguel/compra: Amazon, Apple TV |
-| 2 | **Resident Evil** | 2026 | **83,2** | 7,6 (115 mil) | 96% (302) | 79 | 90% | em cartaz nos cinemas |
-| 3 | **Obsessão** <br><sub>Obsession</sub> | 2025 | **83,2** | 7,8 (410 mil) | 93% (329) | 77 | 94% | em cartaz nos cinemas; aluguel/compra: Amazon, Apple TV |
-| 4 | **A Hora do Mal** <br><sub>Weapons</sub> | 2025 | **81,8** | 7,4 (415 mil) | 93% (400) | 81 | 85% | HBO Max · aluguel/compra: Amazon, Apple TV |
-| 5 | **Extermínio: O Templo dos Ossos** <br><sub>28 Years Later: The Bone Temple</sub> | 2026 | **81,0** | 7,2 (133 mil) | 91% (351) | 81 | 88% | HBO Max · aluguel/compra: Amazon, Apple TV |
-| 6 | **Desconhecidos** <br><sub>Strange Darling</sub> | 2023 | **79,8** | 7,0 (73 mil) | 96% (164) | 80 | 85% | Telecine (canal no Prime Video) · aluguel/compra: Amazon, Apple TV |
-| 7 | **Fale Comigo** <br><sub>Talk to Me</sub> | 2022 | **79,6** | 7,1 (229 mil) | 94% (300) | 76 | 83% | Prime Video, HBO Max, Diamond Films (canal no Prime Video) · aluguel/compra: Amazon, Apple TV |
-| 8 | **Pearl: Uma História de Origem 'X'** <br><sub>Pearl</sub> | 2022 | **78,8** | 7,0 (167 mil) | 93% (218) | 76 | 83% | aluguel/compra: Amazon, Apple TV |
-| 9 | **Entrevista com o Demônio** <br><sub>Late Night with the Devil</sub> | 2023 | **78,6** | 7,0 (154 mil) | 97% (239) | 72 | 82% | HBO Max, Netflix, Diamond Films (canal no Prime Video) · aluguel/compra: Amazon, Apple TV |
-| 10 | **A Meia-Irmã Feia** <br><sub>The Ugly Stepsister</sub> | 2025 | **77,8** | 7,0 (50 mil) | 96% (141) | 70 | 85% | MUBI · em cartaz nos cinemas; aluguel/compra: Apple TV |
-| 11 | **O Predador: A Caçada** <br><sub>Prey</sub> | 2022 | **77,2** | 7,1 (279 mil) | 94% (289) | 71 | 74% | Disney+ |
-| 12 | **Noites Brutais** <br><sub>Barbarian</sub> | 2022 | **77,0** | 7,0 (279 mil) | 92% (212) | 78 | 70% | Paramount+, Telecine (canal no Prime Video), Universal+ (canal no Prime Video) |
+| 1 | <img src="https://image.tmdb.org/t/p/w342/v0Ljeti537c6cNKweuEN0iaU3x4.jpg" width="46" alt=""> **Pecadores** <br><sub>Sinners</sub> | 2025 | **85,6** | 7,5 (536 mil) | 97% (441) | 84 | 96% | HBO Max, Netflix · aluguel/compra: Amazon, Apple TV |
+| 2 | <img src="https://image.tmdb.org/t/p/w342/gQ76UL64RQe3oHwiwHwODTC23g4.jpg" width="46" alt=""> **Resident Evil** | 2026 | **83,2** | 7,6 (115 mil) | 96% (302) | 79 | 90% | em cartaz nos cinemas |
+| 3 | <img src="https://image.tmdb.org/t/p/w342/wUc6IDf5ChjM1UyQye21qFBeJY0.jpg" width="46" alt=""> **Obsessão** <br><sub>Obsession</sub> | 2025 | **83,2** | 7,8 (410 mil) | 93% (329) | 77 | 94% | em cartaz nos cinemas; aluguel/compra: Amazon, Apple TV |
+| 4 | <img src="https://image.tmdb.org/t/p/w342/psEJSjQr6I9GSJTdW28CKC4Kffs.jpg" width="46" alt=""> **A Hora do Mal** <br><sub>Weapons</sub> | 2025 | **81,8** | 7,4 (415 mil) | 93% (400) | 81 | 85% | HBO Max · aluguel/compra: Amazon, Apple TV |
+| 5 | <img src="https://image.tmdb.org/t/p/w342/olQPqv8AA6Wen8cufp0KCcQpLek.jpg" width="46" alt=""> **Extermínio: O Templo dos Ossos** <br><sub>28 Years Later: The Bone Temple</sub> | 2026 | **81,0** | 7,2 (133 mil) | 91% (351) | 81 | 88% | HBO Max · aluguel/compra: Amazon, Apple TV |
+| 6 | <img src="https://image.tmdb.org/t/p/w342/qN0attJyVKppNgftg7NCozwrmAP.jpg" width="46" alt=""> **Desconhecidos** <br><sub>Strange Darling</sub> | 2023 | **79,8** | 7,0 (73 mil) | 96% (164) | 80 | 85% | Telecine (canal no Prime Video) · aluguel/compra: Amazon, Apple TV |
+| 7 | <img src="https://image.tmdb.org/t/p/w342/7U3lC4YnHD8zpeoxbY6Hsj9jyeu.jpg" width="46" alt=""> **Fale Comigo** <br><sub>Talk to Me</sub> | 2022 | **79,6** | 7,1 (229 mil) | 94% (300) | 76 | 83% | Prime Video, HBO Max, Diamond Films (canal no Prime Video) · aluguel/compra: Amazon, Apple TV |
+| 8 | <img src="https://image.tmdb.org/t/p/w342/cTgLkhIMmzwH1NAaq7NDbFN20zi.jpg" width="46" alt=""> **Pearl: Uma História de Origem 'X'** <br><sub>Pearl</sub> | 2022 | **78,8** | 7,0 (167 mil) | 93% (218) | 76 | 83% | aluguel/compra: Amazon, Apple TV |
+| 9 | <img src="https://image.tmdb.org/t/p/w342/blckaGzdEJ4PdG5RxZPcb77VYFV.jpg" width="46" alt=""> **Entrevista com o Demônio** <br><sub>Late Night with the Devil</sub> | 2023 | **78,6** | 7,0 (154 mil) | 97% (239) | 72 | 82% | HBO Max, Netflix, Diamond Films (canal no Prime Video) · aluguel/compra: Amazon, Apple TV |
+| 10 | <img src="https://image.tmdb.org/t/p/w342/2dEoQ2eWk3evQQBNUxPnZsPDq1N.jpg" width="46" alt=""> **A Meia-Irmã Feia** <br><sub>The Ugly Stepsister</sub> | 2025 | **77,8** | 7,0 (50 mil) | 96% (141) | 70 | 85% | MUBI · em cartaz nos cinemas; aluguel/compra: Apple TV |
+| 11 | <img src="https://image.tmdb.org/t/p/w342/n2hyhBPIYbwvCSipcawcc8iEAsH.jpg" width="46" alt=""> **O Predador: A Caçada** <br><sub>Prey</sub> | 2022 | **77,2** | 7,1 (279 mil) | 94% (289) | 71 | 74% | Disney+ |
+| 12 | <img src="https://image.tmdb.org/t/p/w342/mXsvEjsWLvco0hLfhe5FgwmY3qg.jpg" width="46" alt=""> **Noites Brutais** <br><sub>Barbarian</sub> | 2022 | **77,0** | 7,0 (279 mil) | 92% (212) | 78 | 70% | Paramount+, Telecine (canal no Prime Video), Universal+ (canal no Prime Video) |
 
 ### Também recomendados: IMDb ≥ 6,5 e RT ≥ 85%
 
 | # | Título | Ano | Índice | IMDb (votos) | Tomatometer (críticas) | Metascore | Popcornmeter | Onde ver no Brasil |
 |---:|---|---:|---:|---|---|---:|---:|---|
-| 13 | **Frankenstein** | 2025 | **80,3** | 7,4 (343 mil) | 85% (383) | 78 | 94% | Netflix |
-| 14 | **Acampamento Miasma: Adolescência, Sexo e Morte** <br><sub>Teenage Sex and Death at Camp Miasma</sub> | 2026 | **79,4** | 6,5 (24 mil) | 94% (278) | 89 | 78% | MUBI · aluguel/compra: Amazon, Apple TV |
-| 15 | **A Substância** <br><sub>The Substance</sub> | 2024 | **78,2** | 7,2 (472 mil) | 89% (380) | 78 | 76% | MUBI, Netflix · aluguel/compra: Amazon, Apple TV |
-| 16 | **Oddity: Objetos Obscuros** <br><sub>Oddity</sub> | 2024 | **78,2** | 6,7 (64 mil) | 96% (133) | 78 | 85% | Telecine (canal no Prime Video) · aluguel/compra: Amazon |
-| 17 | **Socorro!** <br><sub>Send Help</sub> | 2026 | **78,1** | 6,7 (161 mil) | 92% (303) | 75 | 86% | Disney+ |
-| 18 | **O Mal que Nos Habita** <br><sub>When Evil Lurks</sub> | 2023 | **77,8** | 6,9 (65 mil) | 96% (122) | 75 | 84% | Netflix · aluguel/compra: Apple TV |
-| 19 | **Premonição 6: Laços de Sangue** <br><sub>Final Destination: Bloodlines</sub> | 2025 | **77,5** | 6,7 (174 mil) | 92% (235) | 73 | 86% | HBO Max · aluguel/compra: Amazon, Apple TV |
-| 20 | **X: A Marca da Morte** <br><sub>X</sub> | 2022 | **77,3** | 6,5 (231 mil) | 94% (229) | 80 | 76% | MGM+ (canal no Prime Video) · aluguel/compra: Amazon, Apple TV |
-| 21 | **Faça Ela Voltar** <br><sub>Bring Her Back</sub> | 2025 | **77,2** | 7,1 (144 mil) | 89% (272) | 75 | 79% | HBO Max · aluguel/compra: Amazon, Apple TV |
-| 22 | **Hokum: O Pesadelo da Bruxa** <br><sub>Hokum</sub> | 2026 | **76,4** | 6,6 (73 mil) | 90% (209) | 76 | 82% | Prime Video · aluguel/compra: Amazon, Apple TV |
-| 23 | **Nosferatu** | 2024 | **76,3** | 7,1 (281 mil) | 85% (385) | 78 | 73% | Netflix · aluguel/compra: Amazon, Apple TV |
-| 24 | **Exit 8** | 2025 | **76,0** | 6,5 (37 mil) | 92% (177) | 71 | 86% | Paramount+ · aluguel/compra: Amazon, Apple TV |
-| 25 | **O Menu** <br><sub>The Menu</sub> | 2022 | **76,0** | 7,1 (521 mil) | 88% (338) | 71 | 76% | Disney+ |
-| 26 | **Herege** <br><sub>Heretic</sub> | 2024 | **75,9** | 7,0 (243 mil) | 89% (295) | 71 | 76% | Diamond Films (canal no Prime Video) · aluguel/compra: Amazon, Apple TV |
-| 27 | **A Longa Marcha: Caminhe ou Morra** <br><sub>The Long Walk</sub> | 2025 | **75,6** | 6,6 (154 mil) | 88% (296) | 71 | 85% | Telecine (canal no Prime Video) · aluguel/compra: Amazon, Apple TV |
-| 28 | **Juntos** <br><sub>Together</sub> | 2025 | **75,4** | 6,7 (91 mil) | 89% (246) | 75 | 75% | Prime Video · aluguel/compra: Amazon, Apple TV |
-| 29 | **Backrooms: Um Não-Lugar** <br><sub>Backrooms</sub> | 2026 | **74,9** | 6,7 (236 mil) | 86% (316) | 76 | 74% | em cartaz nos cinemas; aluguel/compra: Amazon, Apple TV |
-| 30 | **Extermínio: A Evolução** <br><sub>28 Years Later</sub> | 2025 | **73,9** | 6,6 (231 mil) | 88% (399) | 77 | 63% | HBO Max · aluguel/compra: Amazon, Apple TV |
-| 31 | **Sorria 2** <br><sub>Smile 2</sub> | 2024 | **73,9** | 6,7 (157 mil) | 86% (212) | 67 | 81% | Paramount+ · aluguel/compra: Amazon, Apple TV |
-| 32 | **O Monstro do Meu Quarto** <br><sub>Dust Bunny</sub> | 2025 | **73,0** | 6,5 (22 mil) | 85% (117) | 73 | 82% | Sem oferta legal encontrada no Brasil |
-| 33 | **Rua do Medo: 1666 – Parte 3** <br><sub>Fear Street: Part Three - 1666</sub> | 2021 | **72,8** | 6,6 (78 mil) | 89% (100) | 68 | 75% | Netflix |
-| 34 | **A Morte do Demônio: A Ascensão** <br><sub>Evil Dead Rise</sub> | 2023 | **72,7** | 6,5 (180 mil) | 85% (242) | 69 | 76% | HBO Max · aluguel/compra: Amazon, Apple TV |
-| 35 | **Rua do Medo: 1978 - Parte 2** <br><sub>Fear Street: Part Two - 1978</sub> | 2021 | **72,7** | 6,7 (93 mil) | 88% (110) | 61 | 81% | Netflix |
-| 36 | **Buddy** | 2026 | **72,6** | 6,7 (18 mil) | 88% (138) | 67 | 76% | Sem oferta legal encontrada no Brasil |
-| 37 | **Longlegs - Vínculo Mortal** <br><sub>Longlegs</sub> | 2024 | **72,4** | 6,5 (235 mil) | 85% (323) | 77 | 61% | Diamond Films (canal no Prime Video) · aluguel/compra: Amazon, Apple TV |
-| 38 | **Dezesseis Facadas** <br><sub>Totally Killer</sub> | 2023 | **70,8** | 6,5 (71 mil) | 85% (110) | 62 | 76% | Prime Video |
+| 13 | <img src="https://image.tmdb.org/t/p/w342/rB0tZwNImTT8febX5qVycZ5YVeF.jpg" width="46" alt=""> **Frankenstein** | 2025 | **80,3** | 7,4 (343 mil) | 85% (383) | 78 | 94% | Netflix |
+| 14 | <img src="https://image.tmdb.org/t/p/w342/mAwGTx2EOdiY6AiWauGICPUrELg.jpg" width="46" alt=""> **Acampamento Miasma: Adolescência, Sexo e Morte** <br><sub>Teenage Sex and Death at Camp Miasma</sub> | 2026 | **79,4** | 6,5 (24 mil) | 94% (278) | 89 | 78% | MUBI · aluguel/compra: Amazon, Apple TV |
+| 15 | <img src="https://image.tmdb.org/t/p/w342/vWeOgzlhnP1sS23H3rzctGHB9Nb.jpg" width="46" alt=""> **A Substância** <br><sub>The Substance</sub> | 2024 | **78,2** | 7,2 (472 mil) | 89% (380) | 78 | 76% | MUBI, Netflix · aluguel/compra: Amazon, Apple TV |
+| 16 | <img src="https://image.tmdb.org/t/p/w342/zwphX6D0pFzb6SI95wwVkIQzxZJ.jpg" width="46" alt=""> **Oddity: Objetos Obscuros** <br><sub>Oddity</sub> | 2024 | **78,2** | 6,7 (64 mil) | 96% (133) | 78 | 85% | Telecine (canal no Prime Video) · aluguel/compra: Amazon |
+| 17 | <img src="https://image.tmdb.org/t/p/w342/rpU5DGrTVdqcygZBB9npt1WMFch.jpg" width="46" alt=""> **Socorro!** <br><sub>Send Help</sub> | 2026 | **78,1** | 6,7 (161 mil) | 92% (303) | 75 | 86% | Disney+ |
+| 18 | <img src="https://image.tmdb.org/t/p/w342/t6cWfm0o5TzCa3nHtHhXpzjBc8V.jpg" width="46" alt=""> **O Mal que Nos Habita** <br><sub>When Evil Lurks</sub> | 2023 | **77,8** | 6,9 (65 mil) | 96% (122) | 75 | 84% | Netflix · aluguel/compra: Apple TV |
+| 19 | <img src="https://image.tmdb.org/t/p/w342/x3J781PsdMrjenzQKM5eJXqK5Nd.jpg" width="46" alt=""> **Premonição 6: Laços de Sangue** <br><sub>Final Destination: Bloodlines</sub> | 2025 | **77,5** | 6,7 (174 mil) | 92% (235) | 73 | 86% | HBO Max · aluguel/compra: Amazon, Apple TV |
+| 20 | <img src="https://image.tmdb.org/t/p/w342/4BarWJRYFB5fN7LsJI9U2ul79hB.jpg" width="46" alt=""> **X: A Marca da Morte** <br><sub>X</sub> | 2022 | **77,3** | 6,5 (231 mil) | 94% (229) | 80 | 76% | MGM+ (canal no Prime Video) · aluguel/compra: Amazon, Apple TV |
+| 21 | <img src="https://image.tmdb.org/t/p/w342/xfmnUz6C5WRboIMQZD0j3SNDT7v.jpg" width="46" alt=""> **Faça Ela Voltar** <br><sub>Bring Her Back</sub> | 2025 | **77,2** | 7,1 (144 mil) | 89% (272) | 75 | 79% | HBO Max · aluguel/compra: Amazon, Apple TV |
+| 22 | <img src="https://image.tmdb.org/t/p/w342/fn5QNtG3LLXC3e7ZTQDYP92kFYc.jpg" width="46" alt=""> **Hokum: O Pesadelo da Bruxa** <br><sub>Hokum</sub> | 2026 | **76,4** | 6,6 (73 mil) | 90% (209) | 76 | 82% | Prime Video · aluguel/compra: Amazon, Apple TV |
+| 23 | <img src="https://image.tmdb.org/t/p/w342/fbkUfzmVzEBFSt6p7VigknREIJT.jpg" width="46" alt=""> **Nosferatu** | 2024 | **76,3** | 7,1 (281 mil) | 85% (385) | 78 | 73% | Netflix · aluguel/compra: Amazon, Apple TV |
+| 24 | <img src="https://image.tmdb.org/t/p/w342/naszJRWpzgbrR9vdifVoQ9IpNqW.jpg" width="46" alt=""> **Exit 8** | 2025 | **76,0** | 6,5 (37 mil) | 92% (177) | 71 | 86% | Paramount+ · aluguel/compra: Amazon, Apple TV |
+| 25 | <img src="https://image.tmdb.org/t/p/w342/rxNelQvAjOmNGUUHRujmsHiPEIh.jpg" width="46" alt=""> **O Menu** <br><sub>The Menu</sub> | 2022 | **76,0** | 7,1 (521 mil) | 88% (338) | 71 | 76% | Disney+ |
+| 26 | <img src="https://image.tmdb.org/t/p/w342/j5e2YS1PRUVC1YgSool0JJyNLxJ.jpg" width="46" alt=""> **Herege** <br><sub>Heretic</sub> | 2024 | **75,9** | 7,0 (243 mil) | 89% (295) | 71 | 76% | Diamond Films (canal no Prime Video) · aluguel/compra: Amazon, Apple TV |
+| 27 | <img src="https://image.tmdb.org/t/p/w342/qE0XKOHZvXtiM4aBLlTPUVZiIc5.jpg" width="46" alt=""> **A Longa Marcha: Caminhe ou Morra** <br><sub>The Long Walk</sub> | 2025 | **75,6** | 6,6 (154 mil) | 88% (296) | 71 | 85% | Telecine (canal no Prime Video) · aluguel/compra: Amazon, Apple TV |
+| 28 | <img src="https://image.tmdb.org/t/p/w342/m9jfOWLuyYejyJX17wRFUQGtUji.jpg" width="46" alt=""> **Juntos** <br><sub>Together</sub> | 2025 | **75,4** | 6,7 (91 mil) | 89% (246) | 75 | 75% | Prime Video · aluguel/compra: Amazon, Apple TV |
+| 29 | <img src="https://image.tmdb.org/t/p/w342/a1pgQeEge47xrS4jGlDwIHiieVK.jpg" width="46" alt=""> **Backrooms: Um Não-Lugar** <br><sub>Backrooms</sub> | 2026 | **74,9** | 6,7 (236 mil) | 86% (316) | 76 | 74% | em cartaz nos cinemas; aluguel/compra: Amazon, Apple TV |
+| 30 | <img src="https://image.tmdb.org/t/p/w342/2K5LCXOqlbzRu7mWHbDnLdDQj6I.jpg" width="46" alt=""> **Extermínio: A Evolução** <br><sub>28 Years Later</sub> | 2025 | **73,9** | 6,6 (231 mil) | 88% (399) | 77 | 63% | HBO Max · aluguel/compra: Amazon, Apple TV |
+| 31 | <img src="https://image.tmdb.org/t/p/w342/ypHiYvSJmHIyRDRiosZuE595uir.jpg" width="46" alt=""> **Sorria 2** <br><sub>Smile 2</sub> | 2024 | **73,9** | 6,7 (157 mil) | 86% (212) | 67 | 81% | Paramount+ · aluguel/compra: Amazon, Apple TV |
+| 32 | <img src="https://image.tmdb.org/t/p/w342/cvdCMFP0pNYXtWXVuRD5Hqp6vuT.jpg" width="46" alt=""> **O Monstro do Meu Quarto** <br><sub>Dust Bunny</sub> | 2025 | **73,0** | 6,5 (22 mil) | 85% (117) | 73 | 82% | Sem oferta legal encontrada no Brasil |
+| 33 | <img src="https://image.tmdb.org/t/p/w342/hsX1vt168fNSMSYwTVi8M9O0hLu.jpg" width="46" alt=""> **Rua do Medo: 1666 – Parte 3** <br><sub>Fear Street: Part Three - 1666</sub> | 2021 | **72,8** | 6,6 (78 mil) | 89% (100) | 68 | 75% | Netflix |
+| 34 | <img src="https://image.tmdb.org/t/p/w342/pYHypEGMKtFTSQqfWC6IJFeaz1J.jpg" width="46" alt=""> **A Morte do Demônio: A Ascensão** <br><sub>Evil Dead Rise</sub> | 2023 | **72,7** | 6,5 (180 mil) | 85% (242) | 69 | 76% | HBO Max · aluguel/compra: Amazon, Apple TV |
+| 35 | <img src="https://image.tmdb.org/t/p/w342/uicSprflqrrhWykOuJjHQ9lSLJ1.jpg" width="46" alt=""> **Rua do Medo: 1978 - Parte 2** <br><sub>Fear Street: Part Two - 1978</sub> | 2021 | **72,7** | 6,7 (93 mil) | 88% (110) | 61 | 81% | Netflix |
+| 36 | <img src="https://image.tmdb.org/t/p/w342/29QY0eScq4chCvZNBx3BIxNdbml.jpg" width="46" alt=""> **Buddy** | 2026 | **72,6** | 6,7 (18 mil) | 88% (138) | 67 | 76% | Sem oferta legal encontrada no Brasil |
+| 37 | <img src="https://image.tmdb.org/t/p/w342/uURBOrqLFyU8iKODcI3t2Xkbhqs.jpg" width="46" alt=""> **Longlegs - Vínculo Mortal** <br><sub>Longlegs</sub> | 2024 | **72,4** | 6,5 (235 mil) | 85% (323) | 77 | 61% | Diamond Films (canal no Prime Video) · aluguel/compra: Amazon, Apple TV |
+| 38 | <img src="https://image.tmdb.org/t/p/w342/o5tWAiHfxEvu2z1qkJKU4gW1uPY.jpg" width="46" alt=""> **Dezesseis Facadas** <br><sub>Totally Killer</sub> | 2023 | **70,8** | 6,5 (71 mil) | 85% (110) | 62 | 76% | Prime Video |
 
 <sub>* Metascore com menos de 10 críticas: exibido, mas fora do cálculo.</sub>
 
@@ -167,20 +167,20 @@ Dados do **JustWatch Brasil** coletados em 25–26/out/2026.
 
 | # | Título | Ano | Índice | IMDb (votos) | Tomatometer (críticas) | Metascore | Popcornmeter | Onde ver no Brasil |
 |---:|---|---:|---:|---|---|---:|---:|---|
-| 1 | **O Segredo de Widow's Bay** <br><sub>Widow's Bay</sub> | 2026 | **84,3** | 8,1 (99 mil) | 98% (109) | 78 | 92% | Apple TV |
-| 2 | **Entrevista com o Vampiro** <br><sub>Interview with the Vampire</sub> | 2022 | **82,7** | 7,6 (46 mil) | 99% (105) | 83 | 79% | Prime Video, Netflix |
-| 3 | **Origem** <br><sub>From</sub> | 2022 | **81,9** | 7,7 (212 mil) | 96% (67) | 63* | 76% | Globoplay |
-| 4 | **Yellowjackets** | 2021 | **77,9** | 7,7 (118 mil) | 92% (202) | 74 | 65% | Paramount+ |
+| 1 | <img src="https://image.tmdb.org/t/p/w342/hazWZ75ml5Er3MQsFetIzoeWs99.jpg" width="46" alt=""> **O Segredo de Widow's Bay** <br><sub>Widow's Bay</sub> | 2026 | **84,3** | 8,1 (99 mil) | 98% (109) | 78 | 92% | Apple TV |
+| 2 | <img src="https://image.tmdb.org/t/p/w342/IXwje9xtS8fvXhS4DkKN6RuxTa.jpg" width="46" alt=""> **Entrevista com o Vampiro** <br><sub>Interview with the Vampire</sub> | 2022 | **82,7** | 7,6 (46 mil) | 99% (105) | 83 | 79% | Prime Video, Netflix |
+| 3 | <img src="https://image.tmdb.org/t/p/w342/eK9ZDIq7gPFRJ0GGaWvgrXLZgXX.jpg" width="46" alt=""> **Origem** <br><sub>From</sub> | 2022 | **81,9** | 7,7 (212 mil) | 96% (67) | 63* | 76% | Globoplay |
+| 4 | <img src="https://image.tmdb.org/t/p/w342/xRnGrn7Z7SC0KIBodocoU1QgDZF.jpg" width="46" alt=""> **Yellowjackets** | 2021 | **77,9** | 7,7 (118 mil) | 92% (202) | 74 | 65% | Paramount+ |
 
 ### Também recomendadas: IMDb ≥ 7,0 e RT ≥ 80%
 
 | # | Título | Ano | Índice | IMDb (votos) | Tomatometer (críticas) | Metascore | Popcornmeter | Onde ver no Brasil |
 |---:|---|---:|---:|---|---|---:|---:|---|
-| 5 | **Alien: Earth** | 2025 | **78,2** | 7,1 (111 mil) | 94% (122) | 85 | 65% | Disney+ |
-| 6 | **Chucky** | 2021 | **77,1** | 7,2 (34 mil) | 95% (64) | 70 | 82% | Disney+, Prime Video, Universal+ (canal no Prime Video) |
-| 7 | **O Gabinete de Curiosidades de Guillermo del Toro** <br><sub>Guillermo del Toro's Cabinet of Curiosities</sub> | 2022 | **74,9** | 7,0 (66 mil) | 93% (56) | 72 | 72% | Netflix |
-| 8 | **IT: Bem-Vindos a Derry** <br><sub>It: Welcome to Derry</sub> | 2025 | **74,8** | 7,9 (122 mil) | 81% (98) | 61 | 82% | HBO Max · aluguel/compra: Amazon |
-| 9 | **Arquivo 81** <br><sub>Archive 81</sub> | 2022 | **74,5** | 7,3 (70 mil) | 87% (39) | 73 | 75% | Netflix |
+| 5 | <img src="https://image.tmdb.org/t/p/w342/8qrRkFh1zhoGxnlRcqNPDzkXuHd.jpg" width="46" alt=""> **Alien: Earth** | 2025 | **78,2** | 7,1 (111 mil) | 94% (122) | 85 | 65% | Disney+ |
+| 6 | <img src="https://image.tmdb.org/t/p/w342/sdCJbGkvnIsIKLxaFQrviriODVq.jpg" width="46" alt=""> **Chucky** | 2021 | **77,1** | 7,2 (34 mil) | 95% (64) | 70 | 82% | Disney+, Prime Video, Universal+ (canal no Prime Video) |
+| 7 | <img src="https://image.tmdb.org/t/p/w342/sxMMOIuV99LOwcJICx1Wy4O8fgi.jpg" width="46" alt=""> **O Gabinete de Curiosidades de Guillermo del Toro** <br><sub>Guillermo del Toro's Cabinet of Curiosities</sub> | 2022 | **74,9** | 7,0 (66 mil) | 93% (56) | 72 | 72% | Netflix |
+| 8 | <img src="https://image.tmdb.org/t/p/w342/gMTfrLvrDaD0zrhpLZ7zXIIpKfJ.jpg" width="46" alt=""> **IT: Bem-Vindos a Derry** <br><sub>It: Welcome to Derry</sub> | 2025 | **74,8** | 7,9 (122 mil) | 81% (98) | 61 | 82% | HBO Max · aluguel/compra: Amazon |
+| 9 | <img src="https://image.tmdb.org/t/p/w342/as0QIRSbRCOE1nr6CZyOJmqQ1z3.jpg" width="46" alt=""> **Arquivo 81** <br><sub>Archive 81</sub> | 2022 | **74,5** | 7,3 (70 mil) | 87% (39) | 73 | 75% | Netflix |
 
 <sub>* Metascore com menos de 10 críticas (From tem 63 com apenas 7): exibido, mas fora do cálculo.</sub>
 
@@ -203,15 +203,15 @@ Dados do **JustWatch Brasil** coletados em 25–26/out/2026.
 
 | # | Título | Ano | Índice | IMDb (votos) | Tomatometer (críticas) | Metascore | Popcornmeter | Onde ver no Brasil |
 |---:|---|---:|---:|---|---|---:|---:|---|
-| 1 | **A Queda da Casa de Usher** <br><sub>The Fall of the House of Usher</sub> | 2023 | **79,6** | 7,9 (140 mil) | 91% (114) | 73 | 81% | Netflix |
+| 1 | <img src="https://image.tmdb.org/t/p/w342/b5MzNAgs1baKi32ln3yQoaKIsgZ.jpg" width="46" alt=""> **A Queda da Casa de Usher** <br><sub>The Fall of the House of Usher</sub> | 2023 | **79,6** | 7,9 (140 mil) | 91% (114) | 73 | 81% | Netflix |
 
 ### Também recomendadas: IMDb ≥ 7,0 e RT ≥ 80%
 
 | # | Título | Ano | Índice | IMDb (votos) | Tomatometer (críticas) | Metascore | Popcornmeter | Onde ver no Brasil |
 |---:|---|---:|---:|---|---|---:|---:|---|
-| 2 | **Missa da Meia-Noite** <br><sub>Midnight Mass</sub> | 2021 | **77,8** | 7,7 (177 mil) | 87% (102) | 75 | 79% | Netflix |
-| 3 | **Carrie, a Estranha** <br><sub>Carrie</sub> | 2026 | **77,8** | 7,9 (47 mil) | 85% (133) | 71 | 82% | Prime Video |
-| 4 | **The Walking Dead: The Ones Who Live** | 2024 | **73,7** | 7,7 (52 mil) | 88% (30) | 61 | 76% | Prime Video |
+| 2 | <img src="https://image.tmdb.org/t/p/w342/rka8ibtD6HayiEJmb6rns47lyAL.jpg" width="46" alt=""> **Missa da Meia-Noite** <br><sub>Midnight Mass</sub> | 2021 | **77,8** | 7,7 (177 mil) | 87% (102) | 75 | 79% | Netflix |
+| 3 | <img src="https://image.tmdb.org/t/p/w342/fvJ08aPvfuPjQtpUDGWa3d3Dk9h.jpg" width="46" alt=""> **Carrie, a Estranha** <br><sub>Carrie</sub> | 2026 | **77,8** | 7,9 (47 mil) | 85% (133) | 71 | 82% | Prime Video |
+| 4 | <img src="https://image.tmdb.org/t/p/w342/95pv9daC8yFm1BfaUyCTx7MfOs.jpg" width="46" alt=""> **The Walking Dead: The Ones Who Live** | 2024 | **73,7** | 7,7 (52 mil) | 88% (30) | 61 | 76% | Prime Video |
 
 
 #### Por que cada minissérie está aqui
@@ -230,13 +230,13 @@ Têm IMDb ≥ 6,8 e Tomatometer ≥ 90% (com ≥ 20 críticas), mas não atingem
 
 | # | Título | Ano | Índice | IMDb (votos) | Tomatometer (críticas) | Metascore | Popcornmeter | Onde ver no Brasil |
 |---:|---|---:|---:|---|---|---:|---:|---|
-|  | **Exhuma** | 2024 | **80,5** | 6,9 (32 mil) | 93% (46) | 80* | 97% | Sem oferta legal encontrada no Brasil |
-|  | **Calls** | 2021 | **79,8** | 7,7 (9 mil) | 95% (20) | 65* | 85% | Apple TV |
-|  | **Hysteria!** | 2024 | **78,0** | 7,0 (7 mil) | 92% (24) | — | 86% | HBO Max |
-|  | **Os Inocentes** <br><sub>The Innocents</sub> | 2021 | **77,3** | 7,0 (31 mil) | 97% (121) | 79 | 72% | aluguel/compra: Amazon, Apple TV |
-|  | **The Creep Tapes** | 2024 | **75,2** | 6,8 (4 mil) | 90% (26) | — | — | Reserva Imovision (canal no Prime Video) |
-|  | **Mad God** | 2021 | **74,2** | 6,8 (22 mil) | 92% (91) | 80 | 69% | Reserva Imovision · aluguel/compra: Reserva Imovision |
-|  | **Sociedade dos Talentos Mortos** <br><sub>Dead Talents Society</sub> | 2024 | **73,9** | 7,0 (4 mil) | 95% (20) | — | 80% | Netflix · aluguel/compra: Amazon, Apple TV |
+|  | <img src="https://image.tmdb.org/t/p/w342/tw0i3kkmOTjDjGFZTLHKhoeXVvA.jpg" width="46" alt=""> **Exhuma** | 2024 | **80,5** | 6,9 (32 mil) | 93% (46) | 80* | 97% | Sem oferta legal encontrada no Brasil |
+|  | <img src="https://image.tmdb.org/t/p/w342/mvp8wW6wm6LulWRtjjeBQcVXMBt.jpg" width="46" alt=""> **Calls** | 2021 | **79,8** | 7,7 (9 mil) | 95% (20) | 65* | 85% | Apple TV |
+|  | <img src="https://image.tmdb.org/t/p/w342/rG3mGUouuSACs2KLdJWjEHpuG8L.jpg" width="46" alt=""> **Hysteria!** | 2024 | **78,0** | 7,0 (7 mil) | 92% (24) | — | 86% | HBO Max |
+|  | <img src="https://image.tmdb.org/t/p/w342/egTvGCHWMUKm9Krjb9zqnNQwSWO.jpg" width="46" alt=""> **Os Inocentes** <br><sub>The Innocents</sub> | 2021 | **77,3** | 7,0 (31 mil) | 97% (121) | 79 | 72% | aluguel/compra: Amazon, Apple TV |
+|  | <img src="https://image.tmdb.org/t/p/w342/nh4vd3KIVt2PTavs5Nj1gurnMjs.jpg" width="46" alt=""> **The Creep Tapes** | 2024 | **75,2** | 6,8 (4 mil) | 90% (26) | — | — | Reserva Imovision (canal no Prime Video) |
+|  | <img src="https://image.tmdb.org/t/p/w342/105stT9GkiENXiYqvWYKoAuHKQL.jpg" width="46" alt=""> **Mad God** | 2021 | **74,2** | 6,8 (22 mil) | 92% (91) | 80 | 69% | Reserva Imovision · aluguel/compra: Reserva Imovision |
+|  | <img src="https://image.tmdb.org/t/p/w342/6DU4UZTNgt77z4IJtjYv34u8Yjq.jpg" width="46" alt=""> **Sociedade dos Talentos Mortos** <br><sub>Dead Talents Society</sub> | 2024 | **73,9** | 7,0 (4 mil) | 95% (20) | — | 80% | Netflix · aluguel/compra: Amazon, Apple TV |
 
 - **•. Exhuma** (2024, dir./criação: Jang Jae-hyun): Dois xamãs, um geomante e um agente funerário exumam um túmulo amaldiçoado. Fenômeno de bilheteria na Coreia do Sul.
 - **•. Calls** (2021, dir./criação: Fede Álvarez): Série experimental da Apple TV+: cada episódio é contado apenas pelo áudio de ligações telefônicas e por grafismos abstratos. Baseada na série francesa de Timothée Hochet.
@@ -276,6 +276,7 @@ Quase entraram nos filmes (falharam por pouco no Tomatometer ou no IMDb):
 - Rotten Tomatoes: páginas de cada título (links em `dados/ranking.json`)
 - Metacritic: páginas de cada título; o slug foi obtido via Wikidata (propriedade P1712)
 - JustWatch Brasil: API pública do site (país BR, idioma pt-BR)
+- Pôsteres: [TMDB](https://www.themoviedb.org/), arte brasileira quando disponível. Este produto usa a API do TMDB, mas não é endossado nem certificado pelo TMDB.
 - Fatos citados nas notas:
   - 16 indicações de *Pecadores* ao Oscar; Oscar de Amy Madigan por *A Hora do Mal*: [TheWrap](https://www.thewrap.com/industry-news/awards/oscar-nominations-records-milestones-2026/), [Variety](https://au.variety.com/2026/film/news/amy-madigan-best-supporting-actress-oscar-34250)
   - Bilheteria de *Resident Evil*: [CTV/AP](https://www.ctvnews.ca/entertainment/article/box-office-resident-evil-tops-box-office-with-franchise-best-debut-of-us60-million/)
@@ -290,6 +291,7 @@ python3 filter.py <pasta>
 python3 rt.py <pasta>; python3 tiers.py <pasta>; python3 jwbr.py <pasta>
 # (Metascores: coletados página a página e salvos em <pasta>/data/mc.json)
 # 3) gera ranking.json, README.md e index.html
+TMDB_TOKEN=<seu token de leitura do TMDB> python3 tmdb.py <pasta>   # pôsteres
 python3 build.py <pasta> ..
 ```
 Os dados brutos usados nesta versão estão em `dados/brutos/`.

@@ -11,6 +11,21 @@ rt = json.load(open(f'{D}/rt.json'))
 mc = json.load(open(f'{D}/mc.json'))
 jw = json.load(open(f'{D}/jwbr.json'))
 tiers = json.load(open(f'{D}/tiers.json'))
+tmdb = json.load(open(f'{D}/tmdb.json'))
+# EMBED_POSTERS=1 embute os pôsteres como data: URI (para ambientes que bloqueiam imagens externas)
+EMBED = os.environ.get('EMBED_POSTERS') == '1'
+
+def poster_src(path, size='w342'):
+    if not path:
+        return None
+    if not EMBED:
+        return f'https://image.tmdb.org/t/p/{size}{path}'
+    import base64, subprocess
+    cache = f'{D}/posters/w185{path}'
+    if not os.path.exists(cache):
+        os.makedirs(os.path.dirname(cache), exist_ok=True)
+        subprocess.run(['curl', '-s', '-o', cache, f'https://image.tmdb.org/t/p/w185{path}'], check=True)
+    return 'data:image/jpeg;base64,' + base64.b64encode(open(cache, 'rb').read()).decode()
 
 SNAPSHOT = '25–26/out/2026'
 
@@ -97,7 +112,9 @@ for r in tiers:
         metascore=m[0] if m else None, mc_criticas=m[1] if m else None,
         indice=idx, componentes=comp, onde_assistir=offers,
         obs=MANTIDOS_NOTA.get(r['id']),
+        poster=poster_src((tmdb.get(r['id']) or {}).get('poster')),
         links=dict(imdb=f"https://www.imdb.com/title/{r['id']}/", rt=rt[r['id']]['url'],
+                   tmdb=f"https://www.themoviedb.org/{tmdb[r['id']]['tipo']}/{tmdb[r['id']]['tmdb_id']}" if r['id'] in tmdb else None,
                    justwatch=f'https://www.justwatch.com{path}' if path else None)))
 
 def ranked(cat):
@@ -121,7 +138,8 @@ FRONTEIRA = [
 ]
 
 os.makedirs(f'{OUT}/dados', exist_ok=True)
-json.dump(dict(gerado_em=SNAPSHOT, metodo=dict(pesos=PESOS), filmes=filmes, series=series, minisseries=minis,
+if not EMBED:
+  json.dump(dict(gerado_em=SNAPSHOT, metodo=dict(pesos=PESOS), filmes=filmes, series=series, minisseries=minis,
                radar=radar), open(f'{OUT}/dados/ranking.json', 'w'), ensure_ascii=False, indent=1)
 
 # ---------------------------------------------------------------- README
@@ -139,7 +157,8 @@ def onde(x):
     return s or '—'
 
 def row(x):
-    t = f"**{x['titulo_br'] or x['titulo']}**" + (f" <br><sub>{x['titulo']}</sub>" if x['titulo_br'] and x['titulo_br'] != x['titulo'] else '')
+    img = f'<img src="{x["poster"]}" width="46" alt=""> ' if x.get('poster') else ''
+    t = img + f"**{x['titulo_br'] or x['titulo']}**" + (f" <br><sub>{x['titulo']}</sub>" if x['titulo_br'] and x['titulo_br'] != x['titulo'] else '')
     ms = f"{x['metascore']}" if x['metascore'] is not None and (x['mc_criticas'] or 0) >= 10 else (f"{x['metascore']}*" if x['metascore'] else '—')
     pc = f"{x['popcornmeter']}%" if x['popcornmeter'] else '—'
     return f"| {x.get('posicao', '')} | {t} | {x['ano']} | **{br(x['indice'])}** | {br(x['imdb'])} ({fmt_votes(x['imdb_votos'])}) | {x['tomatometer']}% ({x['rt_criticas']}) | {ms} | {pc} | {onde(x)} |"
@@ -297,6 +316,7 @@ Quase entraram nos filmes (falharam por pouco no Tomatometer ou no IMDb):
 - Rotten Tomatoes: páginas de cada título (links em `dados/ranking.json`)
 - Metacritic: páginas de cada título; o slug foi obtido via Wikidata (propriedade P1712)
 - JustWatch Brasil: API pública do site (país BR, idioma pt-BR)
+- Pôsteres: [TMDB](https://www.themoviedb.org/), arte brasileira quando disponível. Este produto usa a API do TMDB, mas não é endossado nem certificado pelo TMDB.
 - Fatos citados nas notas:
   - 16 indicações de *Pecadores* ao Oscar; Oscar de Amy Madigan por *A Hora do Mal*: [TheWrap](https://www.thewrap.com/industry-news/awards/oscar-nominations-records-milestones-2026/), [Variety](https://au.variety.com/2026/film/news/amy-madigan-best-supporting-actress-oscar-34250)
   - Bilheteria de *Resident Evil*: [CTV/AP](https://www.ctvnews.ca/entertainment/article/box-office-resident-evil-tops-box-office-with-franchise-best-debut-of-us60-million/)
@@ -311,11 +331,13 @@ python3 filter.py <pasta>
 python3 rt.py <pasta>; python3 tiers.py <pasta>; python3 jwbr.py <pasta>
 # (Metascores: coletados página a página e salvos em <pasta>/data/mc.json)
 # 3) gera ranking.json, README.md e index.html
+TMDB_TOKEN=<seu token de leitura do TMDB> python3 tmdb.py <pasta>   # pôsteres
 python3 build.py <pasta> ..
 ```
 Os dados brutos usados nesta versão estão em `dados/brutos/`.
 """
-open(f'{OUT}/README.md', 'w').write(readme)
+if not EMBED:
+    open(f'{OUT}/README.md', 'w').write(readme)
 
 # ---------------------------------------------------------------- HTML
 tpl = open(os.path.join(os.path.dirname(__file__), 'template.html')).read()
