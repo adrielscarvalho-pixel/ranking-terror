@@ -3,7 +3,7 @@
 > Curadoria baseada em dados, não em achismo. Coleta feita em **25–26/out/2026**.
 > As notas mudam com o tempo; os dados brutos e os scripts estão nesta pasta para refazer tudo.
 
-**Versão visual:** abra o [`index.html`](index.html) no navegador (tem filtros e busca).
+**Site:** https://adrielscarvalho-pixel.github.io/ranking-terror/ (pôsteres, filtros por streaming e busca).
 
 ## Resumo
 
@@ -283,7 +283,7 @@ Quase entraram nos filmes (falharam por pouco no Tomatometer ou no IMDb):
 
 ## 8. Reproduzir
 ```bash
-cd ranking-terror/scripts
+cd scripts
 # 1) baixe a base do IMDb e filtre terror 2021+
 mkdir -p <pasta>/data && cd <pasta>/data && curl -O https://datasets.imdbws.com/title.basics.tsv.gz -O https://datasets.imdbws.com/title.ratings.tsv.gz && cd -
 python3 filter.py <pasta>
