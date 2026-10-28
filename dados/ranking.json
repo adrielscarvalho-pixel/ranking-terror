@@ -1,5 +1,5 @@
 {
- "gerado_em": "25–26/out/2026",
+ "gerado_em": "26–28/out/2026",
  "metodo": {
   "pesos": {
    "tm": 0.3,
@@ -19,7 +19,7 @@
    "diretor": "Ryan Coogler",
    "nota": "Gêmeos (Michael B. Jordan, em papel duplo) abrem um juke joint no Mississippi de 1932 e atraem vampiros. Blues, folclore e história americana num só corpo. Recorde histórico de 16 indicações ao Oscar.",
    "imdb": 7.5,
-   "imdb_votos": 535728,
+   "imdb_votos": 536597,
    "tomatometer": 97,
    "rt_criticas": 441,
    "rt_media": "8.80",
@@ -51,6 +51,48 @@
    "posicao": 1
   },
   {
+   "id": "tt5052448",
+   "categoria": "filme",
+   "tier": 1,
+   "titulo": "Get Out",
+   "titulo_br": "Corra!",
+   "ano": 2017,
+   "diretor": "Jordan Peele",
+   "nota": "Um jovem negro (Daniel Kaluuya) passa o fim de semana na casa de campo da família da namorada branca, e a hospitalidade esconde algo monstruoso. Peele ganhou o Oscar de roteiro original.",
+   "imdb": 7.8,
+   "imdb_votos": 843823,
+   "tomatometer": 98,
+   "rt_criticas": 403,
+   "rt_media": "8.40",
+   "popcornmeter": 86,
+   "metascore": 85,
+   "mc_criticas": 48,
+   "indice": 85.4,
+   "componentes": {
+    "tm": 96.7,
+    "mc": 80.7,
+    "imdb": 77.8,
+    "pop": 86.0
+   },
+   "onde_assistir": {
+    "assinatura": [
+     "Prime Video",
+     "Disney+",
+     "Telecine (canal no Prime Video)"
+    ],
+    "outros": "aluguel/compra: Amazon, Apple TV"
+   },
+   "obs": null,
+   "poster": "https://image.tmdb.org/t/p/w342/A0RoSZh8PEYJgDMgM2EV7Ycz3dR.jpg",
+   "links": {
+    "imdb": "https://www.imdb.com/title/tt5052448/",
+    "rt": "https://www.rottentomatoes.com/m/get_out",
+    "tmdb": "https://www.themoviedb.org/movie/419430",
+    "justwatch": "https://www.justwatch.com/br/filme/get-out"
+   },
+   "posicao": 2
+  },
+  {
    "id": "tt35538033",
    "categoria": "filme",
    "tier": 1,
@@ -60,7 +102,7 @@
    "diretor": "Zach Cregger",
    "nota": "A franquia recomeça do zero: um entregador de material médico (Austin Abrams) atravessa uma noite de surto em Raccoon City. Teve a melhor estreia da série nos EUA (US$ 60 milhões).",
    "imdb": 7.6,
-   "imdb_votos": 114673,
+   "imdb_votos": 116738,
    "tomatometer": 96,
    "rt_criticas": 302,
    "rt_media": "7.80",
@@ -71,7 +113,7 @@
    "componentes": {
     "tm": 94.4,
     "mc": 75.9,
-    "imdb": 74.6,
+    "imdb": 74.7,
     "pop": 90.0
    },
    "onde_assistir": {
@@ -86,7 +128,7 @@
     "tmdb": "https://www.themoviedb.org/movie/1423191",
     "justwatch": "https://www.justwatch.com/br/filme/resident-evil-2026"
    },
-   "posicao": 2
+   "posicao": 3
   },
   {
    "id": "tt37287335",
@@ -98,7 +140,7 @@
    "diretor": "Curry Barker",
    "nota": "Um rapaz quebra o “Salgueiro dos Desejos” para conquistar a garota que ama, e o desejo cobra um preço. A estreia em longa de Curry Barker virou fenômeno: são mais de 400 mil votos no IMDb.",
    "imdb": 7.8,
-   "imdb_votos": 409880,
+   "imdb_votos": 412499,
    "tomatometer": 93,
    "rt_criticas": 329,
    "rt_media": "8.00",
@@ -109,7 +151,7 @@
    "componentes": {
     "tm": 91.7,
     "mc": 73.5,
-    "imdb": 77.5,
+    "imdb": 77.6,
     "pop": 94.0
    },
    "onde_assistir": {
@@ -124,7 +166,48 @@
     "tmdb": "https://www.themoviedb.org/movie/1339713",
     "justwatch": "https://www.justwatch.com/br/filme/obsessao-2026"
    },
-   "posicao": 3
+   "posicao": 4
+  },
+  {
+   "id": "tt6644200",
+   "categoria": "filme",
+   "tier": 1,
+   "titulo": "A Quiet Place",
+   "titulo_br": "Um Lugar Silencioso",
+   "ano": 2018,
+   "diretor": "John Krasinski",
+   "nota": "Uma família sobrevive em silêncio absoluto num mundo dominado por criaturas que caçam pelo som. Emily Blunt e Millicent Simmonds, atriz surda, carregam o filme.",
+   "imdb": 7.5,
+   "imdb_votos": 672880,
+   "tomatometer": 96,
+   "rt_criticas": 386,
+   "rt_media": "8.20",
+   "popcornmeter": 83,
+   "metascore": 82,
+   "mc_criticas": 55,
+   "indice": 82.9,
+   "componentes": {
+    "tm": 94.7,
+    "mc": 78.6,
+    "imdb": 74.8,
+    "pop": 83.0
+   },
+   "onde_assistir": {
+    "assinatura": [
+     "Netflix",
+     "Paramount+"
+    ],
+    "outros": "aluguel/compra: Amazon, Apple TV"
+   },
+   "obs": null,
+   "poster": "https://image.tmdb.org/t/p/w342/jk1LYcbiuUr0tv37cVcmp4u9KcN.jpg",
+   "links": {
+    "imdb": "https://www.imdb.com/title/tt6644200/",
+    "rt": "https://www.rottentomatoes.com/m/a_quiet_place_2018",
+    "tmdb": "https://www.themoviedb.org/movie/447332",
+    "justwatch": "https://www.justwatch.com/br/filme/um-lugar-silencioso"
+   },
+   "posicao": 5
   },
   {
    "id": "tt26581740",
@@ -136,7 +219,7 @@
    "diretor": "Zach Cregger",
    "nota": "Dezessete crianças da mesma turma saem de casa às 2h17 da madrugada e desaparecem. O mistério é contado em capítulos por pontos de vista diferentes. Amy Madigan ganhou o Oscar de atriz coadjuvante como Tia Gladys.",
    "imdb": 7.4,
-   "imdb_votos": 415413,
+   "imdb_votos": 417221,
    "tomatometer": 93,
    "rt_criticas": 400,
    "rt_media": "8.10",
@@ -164,7 +247,7 @@
     "tmdb": "https://www.themoviedb.org/movie/1078605",
     "justwatch": "https://www.justwatch.com/br/filme/weapons-2025"
    },
-   "posicao": 4
+   "posicao": 6
   },
   {
    "id": "tt32141377",
@@ -176,7 +259,7 @@
    "diretor": "Nia DaCosta",
    "nota": "Continuação direta de Extermínio: A Evolução. Ralph Fiennes (Dr. Kelson) e Jack O’Connell (o culto de Sir Jimmy Crystal) dominam o capítulo mais sombrio da saga.",
    "imdb": 7.2,
-   "imdb_votos": 132886,
+   "imdb_votos": 133271,
    "tomatometer": 91,
    "rt_criticas": 351,
    "rt_media": "7.80",
@@ -204,7 +287,130 @@
     "tmdb": "https://www.themoviedb.org/movie/1272837",
     "justwatch": "https://www.justwatch.com/br/filme/28-years-later-the-bone-temple"
    },
-   "posicao": 5
+   "posicao": 7
+  },
+  {
+   "id": "tt5700672",
+   "categoria": "filme",
+   "tier": 1,
+   "titulo": "Train to Busan",
+   "titulo_br": "Invasão Zumbi",
+   "ano": 2016,
+   "diretor": "Yeon Sang-ho",
+   "nota": "Um pai workaholic (Gong Yoo) e a filha embarcam no trem Seul–Busan no dia em que estoura um surto zumbi. Ação claustrofóbica e um dos finais mais tristes do gênero.",
+   "imdb": 7.6,
+   "imdb_votos": 317829,
+   "tomatometer": 95,
+   "rt_criticas": 130,
+   "rt_media": "7.80",
+   "popcornmeter": 90,
+   "metascore": 73,
+   "mc_criticas": 17,
+   "indice": 80.7,
+   "componentes": {
+    "tm": 91.7,
+    "mc": 68.2,
+    "imdb": 75.5,
+    "pop": 90.0
+   },
+   "onde_assistir": {
+    "assinatura": [
+     "Prime Video",
+     "Netflix",
+     "Telecine (canal no Prime Video)"
+    ],
+    "outros": "aluguel/compra: Apple TV"
+   },
+   "obs": null,
+   "poster": "https://image.tmdb.org/t/p/w342/QqHtwk0oHYed26zra9WGQGyBSm.jpg",
+   "links": {
+    "imdb": "https://www.imdb.com/title/tt5700672/",
+    "rt": "https://www.rottentomatoes.com/m/train_to_busan",
+    "tmdb": "https://www.themoviedb.org/movie/396535",
+    "justwatch": "https://www.justwatch.com/br/filme/invasao-zombie"
+   },
+   "posicao": 8
+  },
+  {
+   "id": "tt5215952",
+   "categoria": "filme",
+   "tier": 1,
+   "titulo": "The Wailing",
+   "titulo_br": "O Lamento",
+   "ano": 2016,
+   "diretor": "Na Hong-jin",
+   "nota": "Num vilarejo coreano, mortes violentas coincidem com a chegada de um estrangeiro japonês, e um policial atrapalhado mergulha em xamanismo e possessão. Duas horas e meia de pavor crescente.",
+   "imdb": 7.4,
+   "imdb_votos": 103825,
+   "tomatometer": 99,
+   "rt_criticas": 87,
+   "rt_media": "8.00",
+   "popcornmeter": 81,
+   "metascore": 81,
+   "mc_criticas": 19,
+   "indice": 80.5,
+   "componentes": {
+    "tm": 93.6,
+    "mc": 73.8,
+    "imdb": 72.7,
+    "pop": 81.0
+   },
+   "onde_assistir": {
+    "assinatura": [
+     "Adrenalina Pura (canal no Prime Video)"
+    ],
+    "outros": "aluguel/compra: Apple TV"
+   },
+   "obs": null,
+   "poster": "https://image.tmdb.org/t/p/w342/eoFvdVzVqkf7G9RwaT2yFAFjGKr.jpg",
+   "links": {
+    "imdb": "https://www.imdb.com/title/tt5215952/",
+    "rt": "https://www.rottentomatoes.com/m/the_wailing",
+    "tmdb": "https://www.themoviedb.org/movie/293670",
+    "justwatch": "https://www.justwatch.com/br/filme/gogseong"
+   },
+   "posicao": 9
+  },
+  {
+   "id": "tt7784604",
+   "categoria": "filme",
+   "tier": 1,
+   "titulo": "Hereditary",
+   "titulo_br": "Hereditário",
+   "ano": 2018,
+   "diretor": "Ari Aster",
+   "nota": "Depois da morte da avó, uma família desmorona entre luto, culpa e algo que foi herdado. Toni Collette tem uma atuação histórica na estreia de Ari Aster.",
+   "imdb": 7.3,
+   "imdb_votos": 475194,
+   "tomatometer": 90,
+   "rt_criticas": 385,
+   "rt_media": "8.30",
+   "popcornmeter": 72,
+   "metascore": 87,
+   "mc_criticas": 49,
+   "indice": 79.9,
+   "componentes": {
+    "tm": 89.0,
+    "mc": 82.4,
+    "imdb": 72.7,
+    "pop": 72.0
+   },
+   "onde_assistir": {
+    "assinatura": [
+     "Prime Video",
+     "Diamond Films (canal no Prime Video)"
+    ],
+    "outros": "aluguel/compra: Amazon, Apple TV"
+   },
+   "obs": null,
+   "poster": "https://image.tmdb.org/t/p/w342/x9tUYQj6WrdVwoKimSdoMzkDABS.jpg",
+   "links": {
+    "imdb": "https://www.imdb.com/title/tt7784604/",
+    "rt": "https://www.rottentomatoes.com/m/hereditary",
+    "tmdb": "https://www.themoviedb.org/movie/493922",
+    "justwatch": "https://www.justwatch.com/br/filme/hereditario"
+   },
+   "posicao": 10
   },
   {
    "id": "tt22375054",
@@ -216,7 +422,7 @@
    "diretor": "JT Mollner",
    "nota": "Um encontro casual vira caçada, contado em seis capítulos fora de ordem que brincam com as expectativas do slasher. Rodado em 35 mm, com fotografia de Giovanni Ribisi.",
    "imdb": 7.0,
-   "imdb_votos": 73279,
+   "imdb_votos": 73354,
    "tomatometer": 96,
    "rt_criticas": 164,
    "rt_media": "8.00",
@@ -244,7 +450,7 @@
     "tmdb": "https://www.themoviedb.org/movie/1029281",
     "justwatch": "https://www.justwatch.com/br/filme/strange-darling"
    },
-   "posicao": 6
+   "posicao": 11
   },
   {
    "id": "tt10638522",
@@ -256,7 +462,7 @@
    "diretor": "Danny e Michael Philippou",
    "nota": "Adolescentes australianos usam uma mão embalsamada para “receber” espíritos por 90 segundos, até alguém passar do tempo. A estreia que transformou os irmãos Philippou em grife.",
    "imdb": 7.1,
-   "imdb_votos": 228597,
+   "imdb_votos": 228937,
    "tomatometer": 94,
    "rt_criticas": 300,
    "rt_media": "7.70",
@@ -286,7 +492,128 @@
     "tmdb": "https://www.themoviedb.org/movie/1008042",
     "justwatch": "https://www.justwatch.com/br/filme/talk-to-me-2022"
    },
-   "posicao": 7
+   "posicao": 12
+  },
+  {
+   "id": "tt8332922",
+   "categoria": "filme",
+   "tier": 1,
+   "titulo": "A Quiet Place Part II",
+   "titulo_br": "Um Lugar Silencioso - Parte II",
+   "ano": 2020,
+   "diretor": "John Krasinski",
+   "nota": "Continuação imediata: a família Abbott deixa a fazenda e descobre que outros sobreviventes podem ser tão perigosos quanto as criaturas.",
+   "imdb": 7.2,
+   "imdb_votos": 330922,
+   "tomatometer": 91,
+   "rt_criticas": 366,
+   "rt_media": "7.50",
+   "popcornmeter": 92,
+   "metascore": 71,
+   "mc_criticas": 57,
+   "indice": 79.6,
+   "componentes": {
+    "tm": 89.9,
+    "mc": 69.4,
+    "imdb": 71.6,
+    "pop": 92.0
+   },
+   "onde_assistir": {
+    "assinatura": [
+     "Netflix",
+     "Paramount+",
+     "Universal+ (canal no Prime Video)"
+    ],
+    "outros": "aluguel/compra: Amazon, Apple TV"
+   },
+   "obs": null,
+   "poster": "https://image.tmdb.org/t/p/w342/bqWvndlCAcBteUaHOL5HHEN5uHn.jpg",
+   "links": {
+    "imdb": "https://www.imdb.com/title/tt8332922/",
+    "rt": "https://www.rottentomatoes.com/m/a_quiet_place_part_ii",
+    "tmdb": "https://www.themoviedb.org/movie/520763",
+    "justwatch": "https://www.justwatch.com/br/filme/um-lugar-silencioso-2"
+   },
+   "posicao": 13
+  },
+  {
+   "id": "tt7984734",
+   "categoria": "filme",
+   "tier": 1,
+   "titulo": "The Lighthouse",
+   "titulo_br": "O Farol",
+   "ano": 2019,
+   "diretor": "Robert Eggers",
+   "nota": "Dois faroleiros (Robert Pattinson e Willem Dafoe), isolados numa ilha da Nova Inglaterra nos anos 1890, afundam na loucura. Preto e branco, imagem quase quadrada e um pesadelo marítimo.",
+   "imdb": 7.3,
+   "imdb_votos": 312387,
+   "tomatometer": 90,
+   "rt_criticas": 398,
+   "rt_media": "8.00",
+   "popcornmeter": 72,
+   "metascore": 83,
+   "mc_criticas": 51,
+   "indice": 79.1,
+   "componentes": {
+    "tm": 89.0,
+    "mc": 79.2,
+    "imdb": 72.6,
+    "pop": 72.0
+   },
+   "onde_assistir": {
+    "assinatura": [],
+    "outros": "aluguel/compra: Amazon, Apple TV"
+   },
+   "obs": "O RT classifica como Suspense/Drama, mas é terror psicológico e folclórico de Robert Eggers: mantido.",
+   "poster": "https://image.tmdb.org/t/p/w342/zdowK9GrOxK0YddhXuMPyxnTA02.jpg",
+   "links": {
+    "imdb": "https://www.imdb.com/title/tt7984734/",
+    "rt": "https://www.rottentomatoes.com/m/the_lighthouse_2019",
+    "tmdb": "https://www.themoviedb.org/movie/503919",
+    "justwatch": "https://www.justwatch.com/br/filme/o-farol"
+   },
+   "posicao": 14
+  },
+  {
+   "id": "tt1051906",
+   "categoria": "filme",
+   "tier": 1,
+   "titulo": "The Invisible Man",
+   "titulo_br": "O Homem Invisível",
+   "ano": 2020,
+   "diretor": "Leigh Whannell",
+   "nota": "Uma mulher (Elisabeth Moss) foge de um namorado abusivo, que aparentemente se mata, e passa a ser perseguida por alguém que ninguém vê. O clássico relido como terror sobre violência doméstica.",
+   "imdb": 7.1,
+   "imdb_votos": 292546,
+   "tomatometer": 91,
+   "rt_criticas": 422,
+   "rt_media": "7.80",
+   "popcornmeter": 88,
+   "metascore": 72,
+   "mc_criticas": 58,
+   "indice": 79.0,
+   "componentes": {
+    "tm": 90.0,
+    "mc": 70.2,
+    "imdb": 70.6,
+    "pop": 88.0
+   },
+   "onde_assistir": {
+    "assinatura": [
+     "Prime Video",
+     "Telecine (canal no Prime Video)"
+    ],
+    "outros": "aluguel/compra: Amazon, Apple TV"
+   },
+   "obs": null,
+   "poster": "https://image.tmdb.org/t/p/w342/67gVCA33yHpFkFyqhDJrt21MvYI.jpg",
+   "links": {
+    "imdb": "https://www.imdb.com/title/tt1051906/",
+    "rt": "https://www.rottentomatoes.com/m/the_invisible_man_2020",
+    "tmdb": "https://www.themoviedb.org/movie/570670",
+    "justwatch": "https://www.justwatch.com/br/filme/the-invisible-man"
+   },
+   "posicao": 15
   },
   {
    "id": "tt18925334",
@@ -298,7 +625,7 @@
    "diretor": "Ti West",
    "nota": "Prelúdio de X, ambientado em 1918: Mia Goth vive uma jovem de fazenda que sonha com o estrelato e explode em violência. O monólogo final é antológico.",
    "imdb": 7.0,
-   "imdb_votos": 166719,
+   "imdb_votos": 166882,
    "tomatometer": 93,
    "rt_criticas": 218,
    "rt_media": "7.80",
@@ -324,7 +651,7 @@
     "tmdb": "https://www.themoviedb.org/movie/949423",
     "justwatch": "https://www.justwatch.com/br/filme/pearl-2022"
    },
-   "posicao": 8
+   "posicao": 16
   },
   {
    "id": "tt14966898",
@@ -336,7 +663,7 @@
    "diretor": "Cameron e Colin Cairnes",
    "nota": "Halloween de 1977: um apresentador de talk show em crise de audiência leva uma garota “possuída” ao vivo. Falso found footage de época, com David Dastmalchian em grande forma.",
    "imdb": 7.0,
-   "imdb_votos": 154323,
+   "imdb_votos": 154523,
    "tomatometer": 97,
    "rt_criticas": 239,
    "rt_media": "7.80",
@@ -366,7 +693,7 @@
     "tmdb": "https://www.themoviedb.org/movie/938614",
     "justwatch": "https://www.justwatch.com/br/filme/late-night-with-the-devil"
    },
-   "posicao": 9
+   "posicao": 17
   },
   {
    "id": "tt29344903",
@@ -378,7 +705,7 @@
    "diretor": "Emilie Blichfeldt",
    "nota": "Cinderela vista pela meia-irmã que se mutila para caber no padrão de beleza. Body horror norueguês, cruel e muito engraçado.",
    "imdb": 7.0,
-   "imdb_votos": 50073,
+   "imdb_votos": 50158,
    "tomatometer": 96,
    "rt_criticas": 141,
    "rt_media": "7.60",
@@ -406,7 +733,7 @@
     "tmdb": "https://www.themoviedb.org/movie/1284120",
     "justwatch": "https://www.justwatch.com/br/filme/the-ugly-stepsister"
    },
-   "posicao": 10
+   "posicao": 18
   },
   {
    "id": "tt11866324",
@@ -418,7 +745,7 @@
    "diretor": "Dan Trachtenberg",
    "nota": "O Predador chega às Grandes Planícies de 1719. Amber Midthunder vive Naru, jovem comanche que quer provar seu valor como caçadora. Simples, físico e tenso.",
    "imdb": 7.1,
-   "imdb_votos": 279008,
+   "imdb_votos": 279104,
    "tomatometer": 94,
    "rt_criticas": 289,
    "rt_media": "7.70",
@@ -446,7 +773,7 @@
     "tmdb": "https://www.themoviedb.org/movie/766507",
     "justwatch": "https://www.justwatch.com/br/filme/prey-2022"
    },
-   "posicao": 11
+   "posicao": 19
   },
   {
    "id": "tt15791034",
@@ -458,7 +785,7 @@
    "diretor": "Zach Cregger",
    "nota": "Uma mulher reserva um Airbnb em Detroit e descobre que ele já está ocupado por um estranho. O porão esconde muito mais, e a virada no meio do filme é das mais comentadas do terror recente.",
    "imdb": 7.0,
-   "imdb_votos": 278537,
+   "imdb_votos": 278890,
    "tomatometer": 92,
    "rt_criticas": 212,
    "rt_media": "7.50",
@@ -488,7 +815,7 @@
     "tmdb": "https://www.themoviedb.org/movie/913290",
     "justwatch": "https://www.justwatch.com/br/filme/barbarian"
    },
-   "posicao": 12
+   "posicao": 20
   },
   {
    "id": "tt1312221",
@@ -500,7 +827,7 @@
    "diretor": "Guillermo del Toro",
    "nota": "O projeto de uma vida de del Toro: Oscar Isaac é Victor e Jacob Elordi é a Criatura. Mais tragédia gótica do que susto, com design de produção suntuoso.",
    "imdb": 7.4,
-   "imdb_votos": 343309,
+   "imdb_votos": 343781,
    "tomatometer": 85,
    "rt_criticas": 383,
    "rt_media": "7.60",
@@ -528,7 +855,7 @@
     "tmdb": "https://www.themoviedb.org/movie/1062722",
     "justwatch": "https://www.justwatch.com/br/filme/frankenstein-0"
    },
-   "posicao": 13
+   "posicao": 21
   },
   {
    "id": "tt35298123",
@@ -540,7 +867,7 @@
    "diretor": "Jane Schoenbrun",
    "nota": "Uma jovem diretora (Hannah Einbinder) é contratada para reviver uma franquia slasher e fica obcecada pela final girl original (Gillian Anderson). Metaterror queer.",
    "imdb": 6.5,
-   "imdb_votos": 23888,
+   "imdb_votos": 24398,
    "tomatometer": 94,
    "rt_criticas": 278,
    "rt_media": "8.20",
@@ -551,7 +878,7 @@
    "componentes": {
     "tm": 92.4,
     "mc": 84.0,
-    "imdb": 63.2,
+    "imdb": 63.3,
     "pop": 78.0
    },
    "onde_assistir": {
@@ -568,7 +895,7 @@
     "tmdb": "https://www.themoviedb.org/movie/1240889",
     "justwatch": "https://www.justwatch.com/br/filme/teenage-sex-and-death-at-camp-miasma"
    },
-   "posicao": 14
+   "posicao": 22
   },
   {
    "id": "tt17526714",
@@ -580,7 +907,7 @@
    "diretor": "Coralie Fargeat",
    "nota": "Uma estrela decadente (Demi Moore) usa uma droga que cria uma versão mais jovem de si mesma (Margaret Qualley). Body horror satírico sobre etarismo e Hollywood.",
    "imdb": 7.2,
-   "imdb_votos": 471544,
+   "imdb_votos": 472174,
    "tomatometer": 89,
    "rt_criticas": 380,
    "rt_media": "8.00",
@@ -609,7 +936,7 @@
     "tmdb": "https://www.themoviedb.org/movie/933260",
     "justwatch": "https://www.justwatch.com/br/filme/the-substance"
    },
-   "posicao": 15
+   "posicao": 23
   },
   {
    "id": "tt26470109",
@@ -621,7 +948,7 @@
    "diretor": "Damian McCarthy",
    "nota": "Uma vidente cega investiga a morte da irmã gêmea e leva um boneco de madeira assustador para a casa do viúvo. Terror irlandês de casa isolada, de precisão cirúrgica.",
    "imdb": 6.7,
-   "imdb_votos": 64288,
+   "imdb_votos": 64416,
    "tomatometer": 96,
    "rt_criticas": 133,
    "rt_media": "7.60",
@@ -649,7 +976,45 @@
     "tmdb": "https://www.themoviedb.org/movie/1216191",
     "justwatch": "https://www.justwatch.com/br/filme/oddity"
    },
-   "posicao": 16
+   "posicao": 24
+  },
+  {
+   "id": "tt4954522",
+   "categoria": "filme",
+   "tier": 2,
+   "titulo": "Raw",
+   "titulo_br": "Raw",
+   "ano": 2016,
+   "diretor": "Julia Ducournau",
+   "nota": "Uma caloura vegetariana de veterinária é obrigada a comer carne crua num trote e desperta um apetite canibal. Estreia de Ducournau, que depois ganharia a Palma de Ouro com Titane.",
+   "imdb": 6.9,
+   "imdb_votos": 97999,
+   "tomatometer": 93,
+   "rt_criticas": 201,
+   "rt_media": "7.90",
+   "popcornmeter": 76,
+   "metascore": 81,
+   "mc_criticas": 34,
+   "indice": 78.2,
+   "componentes": {
+    "tm": 90.9,
+    "mc": 76.2,
+    "imdb": 68.1,
+    "pop": 76.0
+   },
+   "onde_assistir": {
+    "assinatura": [],
+    "outros": "Sem oferta legal encontrada no Brasil"
+   },
+   "obs": null,
+   "poster": "https://image.tmdb.org/t/p/w342/aU0X5Ano994f3vhWdD5wnpkfcjV.jpg",
+   "links": {
+    "imdb": "https://www.imdb.com/title/tt4954522/",
+    "rt": "https://www.rottentomatoes.com/m/raw_2017",
+    "tmdb": "https://www.themoviedb.org/movie/393519",
+    "justwatch": "https://www.justwatch.com/br/filme/grave"
+   },
+   "posicao": 25
   },
   {
    "id": "tt8036976",
@@ -661,7 +1026,7 @@
    "diretor": "Sam Raimi",
    "nota": "Raimi volta ao terror: uma funcionária maltratada (Rachel McAdams) e o chefe (Dylan O’Brien) sobrevivem a um acidente aéreo numa ilha, e a hierarquia vira de cabeça para baixo.",
    "imdb": 6.7,
-   "imdb_votos": 160811,
+   "imdb_votos": 161181,
    "tomatometer": 92,
    "rt_criticas": 303,
    "rt_media": "7.40",
@@ -689,7 +1054,7 @@
     "tmdb": "https://www.themoviedb.org/movie/1198994",
     "justwatch": "https://www.justwatch.com/br/filme/pedido-de-socorro"
    },
-   "posicao": 17
+   "posicao": 26
   },
   {
    "id": "tt16300962",
@@ -701,7 +1066,7 @@
    "diretor": "Demián Rugna",
    "nota": "No interior da Argentina, dois irmãos tentam se livrar de um “apodrecido” (um possuído) e acabam espalhando o mal. Um dos filmes de possessão mais cruéis do século.",
    "imdb": 6.9,
-   "imdb_votos": 65362,
+   "imdb_votos": 65450,
    "tomatometer": 96,
    "rt_criticas": 122,
    "rt_media": "7.80",
@@ -729,7 +1094,7 @@
     "tmdb": "https://www.themoviedb.org/movie/744857",
     "justwatch": "https://www.justwatch.com/br/filme/when-evil-lurks"
    },
-   "posicao": 18
+   "posicao": 27
   },
   {
    "id": "tt9619824",
@@ -741,7 +1106,7 @@
    "diretor": "Zach Lipovsky e Adam Stein",
    "nota": "Uma universitária tem visões do desastre que a avó evitou em 1968, e a Morte vem cobrar a família inteira. A franquia renasce, com a última aparição de Tony Todd.",
    "imdb": 6.7,
-   "imdb_votos": 173985,
+   "imdb_votos": 174169,
    "tomatometer": 92,
    "rt_criticas": 235,
    "rt_media": "7.20",
@@ -769,7 +1134,7 @@
     "tmdb": "https://www.themoviedb.org/movie/574475",
     "justwatch": "https://www.justwatch.com/br/filme/o-ultimo-destino-6"
    },
-   "posicao": 19
+   "posicao": 28
   },
   {
    "id": "tt13560574",
@@ -781,7 +1146,7 @@
    "diretor": "Ti West",
    "nota": "Texas, 1979: uma equipe filma um pornô numa fazenda e vira presa do casal de idosos donos do lugar. Mia Goth faz papel duplo.",
    "imdb": 6.5,
-   "imdb_votos": 231295,
+   "imdb_votos": 231478,
    "tomatometer": 94,
    "rt_criticas": 229,
    "rt_media": "7.80",
@@ -809,7 +1174,7 @@
     "tmdb": "https://www.themoviedb.org/movie/760104",
     "justwatch": "https://www.justwatch.com/br/filme/x"
    },
-   "posicao": 20
+   "posicao": 29
   },
   {
    "id": "tt32246771",
@@ -821,7 +1186,7 @@
    "diretor": "Danny e Michael Philippou",
    "nota": "Dois irmãos vão morar com uma mãe adotiva acolhedora (Sally Hawkins), cujo luto esconde um ritual. É o filme mais brutal e mais triste dos Philippou.",
    "imdb": 7.1,
-   "imdb_votos": 144444,
+   "imdb_votos": 144703,
    "tomatometer": 89,
    "rt_criticas": 272,
    "rt_media": "7.60",
@@ -849,7 +1214,129 @@
     "tmdb": "https://www.themoviedb.org/movie/1151031",
     "justwatch": "https://www.justwatch.com/br/filme/bring-her-back"
    },
-   "posicao": 21
+   "posicao": 30
+  },
+  {
+   "id": "tt12749596",
+   "categoria": "filme",
+   "tier": 2,
+   "titulo": "Host",
+   "titulo_br": "Cuidado com Quem Chama",
+   "ano": 2020,
+   "diretor": "Rob Savage",
+   "nota": "Seis amigas fazem uma sessão espírita por Zoom no lockdown de 2020. Filmado inteiramente como videochamada, com menos de uma hora de duração.",
+   "imdb": 6.5,
+   "imdb_votos": 53641,
+   "tomatometer": 98,
+   "rt_criticas": 98,
+   "rt_media": "7.70",
+   "popcornmeter": 70,
+   "metascore": 73,
+   "mc_criticas": 7,
+   "indice": 76.9,
+   "componentes": {
+    "tm": 93.3,
+    "imdb": 64.1,
+    "pop": 70.0
+   },
+   "onde_assistir": {
+    "assinatura": [
+     "Prime Video",
+     "Pluto TV (grátis)"
+    ],
+    "outros": "aluguel/compra: Apple TV"
+   },
+   "obs": null,
+   "poster": "https://image.tmdb.org/t/p/w342/qt2UTzGsFCHF729kKdJOvh8YT4g.jpg",
+   "links": {
+    "imdb": "https://www.imdb.com/title/tt12749596/",
+    "rt": "https://www.rottentomatoes.com/m/host_2020",
+    "tmdb": "https://www.themoviedb.org/movie/723072",
+    "justwatch": "https://www.justwatch.com/br/filme/host-2020"
+   },
+   "posicao": 31
+  },
+  {
+   "id": "tt6857112",
+   "categoria": "filme",
+   "tier": 2,
+   "titulo": "Us",
+   "titulo_br": "Nós",
+   "ano": 2019,
+   "diretor": "Jordan Peele",
+   "nota": "Numa viagem à praia, uma família é atacada por sósias de si mesma. Lupita Nyong’o em papel duplo, numa das atuações mais assustadoras do gênero.",
+   "imdb": 6.8,
+   "imdb_votos": 402478,
+   "tomatometer": 93,
+   "rt_criticas": 551,
+   "rt_media": "7.90",
+   "popcornmeter": 62,
+   "metascore": 81,
+   "mc_criticas": 56,
+   "indice": 76.7,
+   "componentes": {
+    "tm": 92.2,
+    "mc": 77.8,
+    "imdb": 67.8,
+    "pop": 62.0
+   },
+   "onde_assistir": {
+    "assinatura": [
+     "Prime Video",
+     "Telecine (canal no Prime Video)"
+    ],
+    "outros": "aluguel/compra: Amazon, Apple TV"
+   },
+   "obs": null,
+   "poster": "https://image.tmdb.org/t/p/w342/ioceyCFcOC9LfUCkOGZNMbsuc2o.jpg",
+   "links": {
+    "imdb": "https://www.imdb.com/title/tt6857112/",
+    "rt": "https://www.rottentomatoes.com/m/us_2019",
+    "tmdb": "https://www.themoviedb.org/movie/458723",
+    "justwatch": "https://www.justwatch.com/br/filme/nos"
+   },
+   "posicao": 32
+  },
+  {
+   "id": "tt1396484",
+   "categoria": "filme",
+   "tier": 2,
+   "titulo": "It",
+   "titulo_br": "It: A Coisa",
+   "ano": 2017,
+   "diretor": "Andy Muschietti",
+   "nota": "O Clube dos Perdedores enfrenta Pennywise (Bill Skarsgård) em Derry, 1989. Uma das maiores bilheterias de terror da história.",
+   "imdb": 7.3,
+   "imdb_votos": 714378,
+   "tomatometer": 85,
+   "rt_criticas": 391,
+   "rt_media": "7.30",
+   "popcornmeter": 84,
+   "metascore": 69,
+   "mc_criticas": 49,
+   "indice": 76.6,
+   "componentes": {
+    "tm": 84.3,
+    "mc": 67.5,
+    "imdb": 72.8,
+    "pop": 84.0
+   },
+   "onde_assistir": {
+    "assinatura": [
+     "HBO Max",
+     "Universal+ (canal no Prime Video)"
+    ],
+    "outros": "aluguel/compra: Amazon, Apple TV"
+   },
+   "obs": null,
+   "poster": "https://image.tmdb.org/t/p/w342/uYxz0lIiNgErrPhQbSjUdwYxtFc.jpg",
+   "links": {
+    "imdb": "https://www.imdb.com/title/tt1396484/",
+    "rt": "https://www.rottentomatoes.com/m/it_2017",
+    "tmdb": "https://www.themoviedb.org/movie/346364",
+    "justwatch": "https://www.justwatch.com/br/filme/it-a-coisa"
+   },
+   "posicao": 33
   },
   {
    "id": "tt35672862",
@@ -861,7 +1348,7 @@
    "diretor": "Damian McCarthy",
    "nota": "Um romancista (Adam Scott) vai a uma pousada irlandesa para espalhar as cinzas dos pais. A suíte de lua de mel fica sempre trancada, porque guarda uma bruxa.",
    "imdb": 6.6,
-   "imdb_votos": 73287,
+   "imdb_votos": 74122,
    "tomatometer": 90,
    "rt_criticas": 209,
    "rt_media": "7.40",
@@ -889,7 +1376,7 @@
     "tmdb": "https://www.themoviedb.org/movie/1430077",
     "justwatch": "https://www.justwatch.com/br/filme/hokum-o-pesadelo-da-bruxa"
    },
-   "posicao": 22
+   "posicao": 34
   },
   {
    "id": "tt5040012",
@@ -901,7 +1388,7 @@
    "diretor": "Robert Eggers",
    "nota": "Releitura do clássico de 1922, com Lily-Rose Depp como Ellen e Bill Skarsgård irreconhecível como o Conde Orlok. Terror gótico de textura impressionante.",
    "imdb": 7.1,
-   "imdb_votos": 280819,
+   "imdb_votos": 281146,
    "tomatometer": 85,
    "rt_criticas": 385,
    "rt_media": "8.00",
@@ -929,7 +1416,47 @@
     "tmdb": "https://www.themoviedb.org/movie/426063",
     "justwatch": "https://www.justwatch.com/br/filme/nosferatu-2023"
    },
-   "posicao": 23
+   "posicao": 35
+  },
+  {
+   "id": "tt4160708",
+   "categoria": "filme",
+   "tier": 2,
+   "titulo": "Don't Breathe",
+   "titulo_br": "O Homem nas Trevas",
+   "ano": 2016,
+   "diretor": "Fede Álvarez",
+   "nota": "Três jovens assaltam a casa de um veterano de guerra cego, achando que vai ser fácil. Não é: Stephen Lang está aterrorizante.",
+   "imdb": 7.1,
+   "imdb_votos": 336881,
+   "tomatometer": 88,
+   "rt_criticas": 244,
+   "rt_media": "7.30",
+   "popcornmeter": 79,
+   "metascore": 71,
+   "mc_criticas": 39,
+   "indice": 76.2,
+   "componentes": {
+    "tm": 86.6,
+    "mc": 68.8,
+    "imdb": 70.7,
+    "pop": 79.0
+   },
+   "onde_assistir": {
+    "assinatura": [
+     "Sony One (canal no Prime Video)"
+    ],
+    "outros": "aluguel/compra: Amazon, Apple TV"
+   },
+   "obs": null,
+   "poster": "https://image.tmdb.org/t/p/w342/tBtjyqf8oIdeFkis41bdaJzewBh.jpg",
+   "links": {
+    "imdb": "https://www.imdb.com/title/tt4160708/",
+    "rt": "https://www.rottentomatoes.com/m/dont_breathe_2016",
+    "tmdb": "https://www.themoviedb.org/movie/300669",
+    "justwatch": "https://www.justwatch.com/br/filme/dont-breathe"
+   },
+   "posicao": 36
   },
   {
    "id": "tt35222590",
@@ -941,7 +1468,7 @@
    "diretor": "Genki Kawamura",
    "nota": "Adaptação do game japonês: um homem (Kazunari Ninomiya) fica preso num corredor de metrô em looping e precisa detectar anomalias para escapar.",
    "imdb": 6.5,
-   "imdb_votos": 37394,
+   "imdb_votos": 37622,
    "tomatometer": 92,
    "rt_criticas": 177,
    "rt_media": "7.20",
@@ -969,7 +1496,7 @@
     "tmdb": "https://www.themoviedb.org/movie/1408208",
     "justwatch": "https://www.justwatch.com/br/filme/the-exit-8"
    },
-   "posicao": 24
+   "posicao": 37
   },
   {
    "id": "tt9764362",
@@ -981,7 +1508,7 @@
    "diretor": "Mark Mylod",
    "nota": "Um casal janta num restaurante exclusivo numa ilha, e o chef (Ralph Fiennes) preparou um menu de vingança. Sátira de terror sobre gastronomia e classe social.",
    "imdb": 7.1,
-   "imdb_votos": 520561,
+   "imdb_votos": 520985,
    "tomatometer": 88,
    "rt_criticas": 338,
    "rt_media": "7.50",
@@ -1009,7 +1536,45 @@
     "tmdb": "https://www.themoviedb.org/movie/593643",
     "justwatch": "https://www.justwatch.com/br/filme/the-menu"
    },
-   "posicao": 25
+   "posicao": 38
+  },
+  {
+   "id": "tt7557108",
+   "categoria": "filme",
+   "tier": 2,
+   "titulo": "Saint Maud",
+   "titulo_br": "Santa Maud",
+   "ano": 2019,
+   "diretor": "Rose Glass",
+   "nota": "Uma enfermeira recém-convertida (Morfydd Clark) se convence de que precisa salvar a alma da paciente terminal de quem cuida. Terror religioso britânico, curto e devastador.",
+   "imdb": 6.6,
+   "imdb_votos": 57312,
+   "tomatometer": 92,
+   "rt_criticas": 195,
+   "rt_media": "8.10",
+   "popcornmeter": 67,
+   "metascore": 83,
+   "mc_criticas": 35,
+   "indice": 76.0,
+   "componentes": {
+    "tm": 90.0,
+    "mc": 77.9,
+    "imdb": 65.0,
+    "pop": 67.0
+   },
+   "onde_assistir": {
+    "assinatura": [],
+    "outros": "aluguel/compra: Amazon, Apple TV"
+   },
+   "obs": null,
+   "poster": "https://image.tmdb.org/t/p/w342/w2J7sk5ZFP1yFHLKCbe3YGnXPYA.jpg",
+   "links": {
+    "imdb": "https://www.imdb.com/title/tt7557108/",
+    "rt": "https://www.rottentomatoes.com/m/saint_maud",
+    "tmdb": "https://www.themoviedb.org/movie/575776",
+    "justwatch": "https://www.justwatch.com/br/filme/saint-maud"
+   },
+   "posicao": 39
   },
   {
    "id": "tt28015403",
@@ -1021,7 +1586,7 @@
    "diretor": "Scott Beck e Bryan Woods",
    "nota": "Duas missionárias mórmons batem à porta do Sr. Reed (Hugh Grant), que quer debater religião e não deixa ninguém sair. Hugh Grant num de seus melhores papéis.",
    "imdb": 7.0,
-   "imdb_votos": 243093,
+   "imdb_votos": 243436,
    "tomatometer": 89,
    "rt_criticas": 295,
    "rt_media": "7.30",
@@ -1049,7 +1614,45 @@
     "tmdb": "https://www.themoviedb.org/movie/1138194",
     "justwatch": "https://www.justwatch.com/br/filme/heretic"
    },
-   "posicao": 26
+   "posicao": 40
+  },
+  {
+   "id": "tt6998518",
+   "categoria": "filme",
+   "tier": 2,
+   "titulo": "Mandy",
+   "titulo_br": "Mandy: Sede de Vingança",
+   "ano": 2018,
+   "diretor": "Panos Cosmatos",
+   "nota": "Em 1983, um lenhador (Nicolas Cage) caça a seita que destruiu sua vida. Pesadelo psicodélico com trilha de Jóhann Jóhannsson.",
+   "imdb": 6.5,
+   "imdb_votos": 100121,
+   "tomatometer": 91,
+   "rt_criticas": 253,
+   "rt_media": "7.70",
+   "popcornmeter": 68,
+   "metascore": 83,
+   "mc_criticas": 30,
+   "indice": 75.7,
+   "componentes": {
+    "tm": 89.5,
+    "mc": 77.2,
+    "imdb": 64.5,
+    "pop": 68.0
+   },
+   "onde_assistir": {
+    "assinatura": [],
+    "outros": "aluguel/compra: Amazon, Apple TV"
+   },
+   "obs": null,
+   "poster": "https://image.tmdb.org/t/p/w342/fSruOTrU6rnEZbAutI7iBNry39y.jpg",
+   "links": {
+    "imdb": "https://www.imdb.com/title/tt6998518/",
+    "rt": "https://www.rottentomatoes.com/m/mandy_2018",
+    "tmdb": "https://www.themoviedb.org/movie/460885",
+    "justwatch": "https://www.justwatch.com/br/filme/mandy"
+   },
+   "posicao": 41
   },
   {
    "id": "tt10374610",
@@ -1061,7 +1664,7 @@
    "diretor": "Francis Lawrence",
    "nota": "Adaptação de Stephen King (como Richard Bachman): 50 jovens caminham sem parar, e quem fica abaixo da velocidade mínima é executado. Terror de resistência física e moral.",
    "imdb": 6.6,
-   "imdb_votos": 154309,
+   "imdb_votos": 154648,
    "tomatometer": 88,
    "rt_criticas": 296,
    "rt_media": "7.70",
@@ -1089,7 +1692,7 @@
     "tmdb": "https://www.themoviedb.org/movie/604079",
     "justwatch": "https://www.justwatch.com/br/filme/a-longa-marcha-caminhe-ou-morra"
    },
-   "posicao": 27
+   "posicao": 42
   },
   {
    "id": "tt31184028",
@@ -1101,7 +1704,7 @@
    "diretor": "Michael Shanks",
    "nota": "Dave Franco e Alison Brie, casados na vida real, vivem um casal cujos corpos começam a se fundir literalmente. Body horror sobre codependência.",
    "imdb": 6.7,
-   "imdb_votos": 91314,
+   "imdb_votos": 91496,
    "tomatometer": 89,
    "rt_criticas": 246,
    "rt_media": "7.20",
@@ -1129,7 +1732,86 @@
     "tmdb": "https://www.themoviedb.org/movie/1242011",
     "justwatch": "https://www.justwatch.com/br/filme/together-2025"
    },
-   "posicao": 28
+   "posicao": 43
+  },
+  {
+   "id": "tt2798920",
+   "categoria": "filme",
+   "tier": 2,
+   "titulo": "Annihilation",
+   "titulo_br": "Aniquilação",
+   "ano": 2018,
+   "diretor": "Alex Garland",
+   "nota": "Uma bióloga (Natalie Portman) entra no “Brilho”, uma zona que faz sofrer mutação tudo o que vive. Ficção científica que vira terror cósmico; a cena do urso é puro pavor.",
+   "imdb": 6.8,
+   "imdb_votos": 399959,
+   "tomatometer": 88,
+   "rt_criticas": 332,
+   "rt_media": "7.80",
+   "popcornmeter": 67,
+   "metascore": 79,
+   "mc_criticas": 51,
+   "indice": 75.4,
+   "componentes": {
+    "tm": 87.0,
+    "mc": 75.9,
+    "imdb": 67.8,
+    "pop": 67.0
+   },
+   "onde_assistir": {
+    "assinatura": [
+     "Universal+ (canal no Prime Video)"
+    ],
+    "outros": "aluguel/compra: Amazon, Apple TV"
+   },
+   "obs": "O RT classifica como Ficção científica/Aventura, mas o centro é terror cósmico e de mutação: mantido.",
+   "poster": "https://image.tmdb.org/t/p/w342/nuRDoKqbly63XbNQNbsCo2JWvlM.jpg",
+   "links": {
+    "imdb": "https://www.imdb.com/title/tt2798920/",
+    "rt": "https://www.rottentomatoes.com/m/annihilation",
+    "tmdb": "https://www.themoviedb.org/movie/300668",
+    "justwatch": "https://www.justwatch.com/br/filme/aniquilacao"
+   },
+   "posicao": 44
+  },
+  {
+   "id": "tt5022702",
+   "categoria": "filme",
+   "tier": 2,
+   "titulo": "Hush",
+   "titulo_br": "Hush: A Morte Ouve",
+   "ano": 2016,
+   "diretor": "Mike Flanagan",
+   "nota": "Uma escritora surda que vive isolada no mato é cercada por um assassino mascarado. Flanagan antes da fama, com tensão do início ao fim em pouco mais de 80 minutos.",
+   "imdb": 6.6,
+   "imdb_votos": 173457,
+   "tomatometer": 92,
+   "rt_criticas": 48,
+   "rt_media": "7.50",
+   "popcornmeter": 73,
+   "metascore": 67,
+   "mc_criticas": 7,
+   "indice": 75.1,
+   "componentes": {
+    "tm": 85.5,
+    "imdb": 65.6,
+    "pop": 73.0
+   },
+   "onde_assistir": {
+    "assinatura": [
+     "Plex (grátis)"
+    ],
+    "outros": ""
+   },
+   "obs": null,
+   "poster": "https://image.tmdb.org/t/p/w342/t1G9OlLHGTPRpnFnB6NHAlOqmHI.jpg",
+   "links": {
+    "imdb": "https://www.imdb.com/title/tt5022702/",
+    "rt": "https://www.rottentomatoes.com/m/hush_2016",
+    "tmdb": "https://www.themoviedb.org/movie/376570",
+    "justwatch": "https://www.justwatch.com/br/filme/hush-2016"
+   },
+   "posicao": 45
   },
   {
    "id": "tt26657236",
@@ -1141,7 +1823,7 @@
    "diretor": "Kane Parsons",
    "nota": "O criador da websérie viral estreia pela A24 como o diretor mais jovem da história do estúdio. O dono de uma loja de móveis (Chiwetel Ejiofor) encontra uma passagem para um labirinto infinito de salas amarelas.",
    "imdb": 6.7,
-   "imdb_votos": 235832,
+   "imdb_votos": 237828,
    "tomatometer": 86,
    "rt_criticas": 316,
    "rt_media": "7.40",
@@ -1167,7 +1849,85 @@
     "tmdb": "https://www.themoviedb.org/movie/1083381",
     "justwatch": "https://www.justwatch.com/br/filme/backrooms"
    },
-   "posicao": 29
+   "posicao": 46
+  },
+  {
+   "id": "tt7798634",
+   "categoria": "filme",
+   "tier": 2,
+   "titulo": "Ready or Not",
+   "titulo_br": "Casamento Sangrento",
+   "ano": 2019,
+   "diretor": "Matt Bettinelli-Olpin e Tyler Gillett",
+   "nota": "Na noite de núpcias, a noiva (Samara Weaving) descobre que a família rica do marido vai caçá-la num esconde-esconde mortal. Terror-comédia sangrento.",
+   "imdb": 6.9,
+   "imdb_votos": 269727,
+   "tomatometer": 89,
+   "rt_criticas": 324,
+   "rt_media": "7.20",
+   "popcornmeter": 78,
+   "metascore": 64,
+   "mc_criticas": 39,
+   "indice": 74.5,
+   "componentes": {
+    "tm": 87.9,
+    "mc": 63.2,
+    "imdb": 68.6,
+    "pop": 78.0
+   },
+   "onde_assistir": {
+    "assinatura": [
+     "Disney+"
+    ],
+    "outros": ""
+   },
+   "obs": null,
+   "poster": "https://image.tmdb.org/t/p/w342/k5dJuAdjv1wCq2Vzj1GZfwGmLoU.jpg",
+   "links": {
+    "imdb": "https://www.imdb.com/title/tt7798634/",
+    "rt": "https://www.rottentomatoes.com/m/ready_or_not_2019",
+    "tmdb": "https://www.themoviedb.org/movie/567609",
+    "justwatch": "https://www.justwatch.com/br/filme/ready-or-not-o-ritual"
+   },
+   "posicao": 47
+  },
+  {
+   "id": "tt3986820",
+   "categoria": "filme",
+   "tier": 2,
+   "titulo": "The Endless",
+   "titulo_br": "O Culto",
+   "ano": 2017,
+   "diretor": "Justin Benson e Aaron Moorhead",
+   "nota": "Dois irmãos voltam ao culto de onde fugiram anos antes e encontram fenômenos que desafiam o tempo. Terror cósmico de baixo orçamento e muita imaginação.",
+   "imdb": 6.5,
+   "imdb_votos": 59081,
+   "tomatometer": 91,
+   "rt_criticas": 127,
+   "rt_media": "7.60",
+   "popcornmeter": 67,
+   "metascore": 80,
+   "mc_criticas": 22,
+   "indice": 74.2,
+   "componentes": {
+    "tm": 88.1,
+    "mc": 73.8,
+    "imdb": 64.1,
+    "pop": 67.0
+   },
+   "onde_assistir": {
+    "assinatura": [],
+    "outros": "aluguel/compra: Apple TV"
+   },
+   "obs": null,
+   "poster": "https://image.tmdb.org/t/p/w342/2D0lOSwNAq1jUmeJgrdgPbBY9dK.jpg",
+   "links": {
+    "imdb": "https://www.imdb.com/title/tt3986820/",
+    "rt": "https://www.rottentomatoes.com/m/the_endless",
+    "tmdb": "https://www.themoviedb.org/movie/430231",
+    "justwatch": "https://www.justwatch.com/br/filme/the-endless"
+   },
+   "posicao": 48
   },
   {
    "id": "tt10548174",
@@ -1179,7 +1939,7 @@
    "diretor": "Danny Boyle",
    "nota": "Boyle e Alex Garland retornam: um garoto (Alfie Williams) deixa pela primeira vez a ilha isolada rumo ao continente infestado. É ousado, estranho e emotivo.",
    "imdb": 6.6,
-   "imdb_votos": 230647,
+   "imdb_votos": 230860,
    "tomatometer": 88,
    "rt_criticas": 399,
    "rt_media": "7.40",
@@ -1207,7 +1967,7 @@
     "tmdb": "https://www.themoviedb.org/movie/1100988",
     "justwatch": "https://www.justwatch.com/br/filme/28-years-later"
    },
-   "posicao": 30
+   "posicao": 49
   },
   {
    "id": "tt29268110",
@@ -1219,7 +1979,7 @@
    "diretor": "Parker Finn",
    "nota": "A maldição do sorriso contamina uma pop star (Naomi Scott) às vésperas da turnê de retorno. É maior, mais estilosa e mais cruel que o original.",
    "imdb": 6.7,
-   "imdb_votos": 156749,
+   "imdb_votos": 156992,
    "tomatometer": 86,
    "rt_criticas": 212,
    "rt_media": "7.00",
@@ -1247,7 +2007,47 @@
     "tmdb": "https://www.themoviedb.org/movie/1100782",
     "justwatch": "https://www.justwatch.com/br/filme/smile-2"
    },
-   "posicao": 31
+   "posicao": 50
+  },
+  {
+   "id": "tt3748172",
+   "categoria": "filme",
+   "tier": 2,
+   "titulo": "Gerald's Game",
+   "titulo_br": "Jogo Perigoso",
+   "ano": 2017,
+   "diretor": "Mike Flanagan",
+   "nota": "Um fim de semana do casal numa casa isolada dá errado: o marido morre e a mulher (Carla Gugino) fica algemada à cama. Adaptação de um Stephen King que muitos consideravam infilmável.",
+   "imdb": 6.5,
+   "imdb_votos": 144958,
+   "tomatometer": 91,
+   "rt_criticas": 81,
+   "rt_media": "7.60",
+   "popcornmeter": 69,
+   "metascore": 77,
+   "mc_criticas": 12,
+   "indice": 73.1,
+   "componentes": {
+    "tm": 86.8,
+    "mc": 69.3,
+    "imdb": 64.6,
+    "pop": 69.0
+   },
+   "onde_assistir": {
+    "assinatura": [
+     "Netflix"
+    ],
+    "outros": ""
+   },
+   "obs": null,
+   "poster": "https://image.tmdb.org/t/p/w342/kYFyeWz6AfKq9e3PEY2GREZ39Ay.jpg",
+   "links": {
+    "imdb": "https://www.imdb.com/title/tt3748172/",
+    "rt": "https://www.rottentomatoes.com/m/geralds_game",
+    "tmdb": "https://www.themoviedb.org/movie/343674",
+    "justwatch": "https://www.justwatch.com/br/filme/geralds-game"
+   },
+   "posicao": 51
   },
   {
    "id": "tt23172090",
@@ -1259,7 +2059,7 @@
    "diretor": "Bryan Fuller",
    "nota": "Estreia de Bryan Fuller (Hannibal) na direção de longas: uma menina contrata o vizinho matador de aluguel (Mads Mikkelsen) para eliminar o monstro debaixo da cama.",
    "imdb": 6.5,
-   "imdb_votos": 22234,
+   "imdb_votos": 22297,
    "tomatometer": 85,
    "rt_criticas": 117,
    "rt_media": "7.00",
@@ -1285,7 +2085,47 @@
     "tmdb": "https://www.themoviedb.org/movie/1043197",
     "justwatch": "https://www.justwatch.com/br/filme/o-monstro-do-meu-quarto"
    },
-   "posicao": 32
+   "posicao": 52
+  },
+  {
+   "id": "tt5918982",
+   "categoria": "filme",
+   "tier": 2,
+   "titulo": "Possessor",
+   "titulo_br": "Possessor",
+   "ano": 2020,
+   "diretor": "Brandon Cronenberg",
+   "nota": "Uma assassina (Andrea Riseborough) usa implantes para possuir o corpo de outras pessoas e matar por encomenda, até perder o controle de quem é. Body horror violentíssimo.",
+   "imdb": 6.5,
+   "imdb_votos": 55491,
+   "tomatometer": 94,
+   "rt_criticas": 226,
+   "rt_media": "7.80",
+   "popcornmeter": 59,
+   "metascore": 72,
+   "mc_criticas": 28,
+   "indice": 72.9,
+   "componentes": {
+    "tm": 92.0,
+    "mc": 68.8,
+    "imdb": 64.1,
+    "pop": 59.0
+   },
+   "onde_assistir": {
+    "assinatura": [
+     "HBO Max"
+    ],
+    "outros": ""
+   },
+   "obs": null,
+   "poster": "https://image.tmdb.org/t/p/w342/xC9GZeJZ3NagdkGg9nLQx0aPG6J.jpg",
+   "links": {
+    "imdb": "https://www.imdb.com/title/tt5918982/",
+    "rt": "https://www.rottentomatoes.com/m/possessor",
+    "tmdb": "https://www.themoviedb.org/movie/435615",
+    "justwatch": "https://www.justwatch.com/br/filme/possessor-uncut"
+   },
+   "posicao": 53
   },
   {
    "id": "tt9701942",
@@ -1297,7 +2137,7 @@
    "diretor": "Leigh Janiak",
    "nota": "Fecho da trilogia: a origem da maldição de Sarah Fier na colônia de 1666 e o acerto de contas em 1994.",
    "imdb": 6.6,
-   "imdb_votos": 77919,
+   "imdb_votos": 77974,
    "tomatometer": 89,
    "rt_criticas": 100,
    "rt_media": "7.10",
@@ -1325,7 +2165,7 @@
     "tmdb": "https://www.themoviedb.org/movie/591275",
     "justwatch": "https://www.justwatch.com/br/filme/fear-street-part-three-1666"
    },
-   "posicao": 33
+   "posicao": 54
   },
   {
    "id": "tt13345606",
@@ -1337,7 +2177,7 @@
    "diretor": "Lee Cronin",
    "nota": "Os deadites invadem um prédio de apartamentos em Los Angeles: uma mãe possuída contra os próprios filhos. Um banho de sangue fiel à franquia.",
    "imdb": 6.5,
-   "imdb_votos": 180105,
+   "imdb_votos": 180292,
    "tomatometer": 85,
    "rt_criticas": 242,
    "rt_media": "7.20",
@@ -1365,7 +2205,7 @@
     "tmdb": "https://www.themoviedb.org/movie/713704",
     "justwatch": "https://www.justwatch.com/br/filme/evil-dead-rise"
    },
-   "posicao": 34
+   "posicao": 55
   },
   {
    "id": "tt9701940",
@@ -1377,7 +2217,7 @@
    "diretor": "Leigh Janiak",
    "nota": "Segunda parte da trilogia Rua do Medo: um massacre no acampamento Nightwing, em homenagem declarada ao slasher de acampamento.",
    "imdb": 6.7,
-   "imdb_votos": 93315,
+   "imdb_votos": 93379,
    "tomatometer": 88,
    "rt_criticas": 110,
    "rt_media": "6.90",
@@ -1405,7 +2245,7 @@
     "tmdb": "https://www.themoviedb.org/movie/591274",
     "justwatch": "https://www.justwatch.com/br/filme/fear-street-part-two-1978"
    },
-   "posicao": 35
+   "posicao": 56
   },
   {
    "id": "tt37281055",
@@ -1417,7 +2257,7 @@
    "diretor": "Casper Kelly",
    "nota": "Do criador de “Too Many Cooks”: crianças ficam presas num programa infantil ao estilo anos 90, com um unicórnio apresentador nada amigável. Elenco com Cristin Milioti e Michael Shannon.",
    "imdb": 6.7,
-   "imdb_votos": 17767,
+   "imdb_votos": 19246,
    "tomatometer": 88,
    "rt_criticas": 138,
    "rt_media": "7.00",
@@ -1428,7 +2268,7 @@
    "componentes": {
     "tm": 85.7,
     "mc": 64.8,
-    "imdb": 64.1,
+    "imdb": 64.3,
     "pop": 76.0
    },
    "onde_assistir": {
@@ -1443,7 +2283,7 @@
     "tmdb": "https://www.themoviedb.org/movie/1514026",
     "justwatch": null
    },
-   "posicao": 36
+   "posicao": 57
   },
   {
    "id": "tt23468450",
@@ -1455,7 +2295,7 @@
    "diretor": "Osgood Perkins",
    "nota": "Uma agente do FBI (Maika Monroe) caça um assassino satânico (Nicolas Cage). A atmosfera é sufocante, e o marketing virou fenômeno à parte.",
    "imdb": 6.5,
-   "imdb_votos": 235293,
+   "imdb_votos": 235527,
    "tomatometer": 85,
    "rt_criticas": 323,
    "rt_media": "7.60",
@@ -1483,7 +2323,48 @@
     "tmdb": "https://www.themoviedb.org/movie/1226578",
     "justwatch": "https://www.justwatch.com/br/filme/longlegs"
    },
-   "posicao": 37
+   "posicao": 58
+  },
+  {
+   "id": "tt3289956",
+   "categoria": "filme",
+   "tier": 2,
+   "titulo": "The Autopsy of Jane Doe",
+   "titulo_br": "A Autópsia",
+   "ano": 2016,
+   "diretor": "André Øvredal",
+   "nota": "Pai e filho legistas (Brian Cox e Emile Hirsch) examinam numa noite de tempestade o corpo intacto de uma desconhecida. Cada incisão revela algo pior.",
+   "imdb": 6.8,
+   "imdb_votos": 170671,
+   "tomatometer": 86,
+   "rt_criticas": 108,
+   "rt_media": "7.00",
+   "popcornmeter": 72,
+   "metascore": 65,
+   "mc_criticas": 20,
+   "indice": 71.9,
+   "componentes": {
+    "tm": 83.5,
+    "mc": 63.3,
+    "imdb": 67.5,
+    "pop": 72.0
+   },
+   "onde_assistir": {
+    "assinatura": [
+     "Prime Video",
+     "Diamond Films (canal no Prime Video)"
+    ],
+    "outros": "aluguel/compra: Amazon, Apple TV"
+   },
+   "obs": null,
+   "poster": "https://image.tmdb.org/t/p/w342/9hY2AVLqdklon41dr9PSQ4KdW8K.jpg",
+   "links": {
+    "imdb": "https://www.imdb.com/title/tt3289956/",
+    "rt": "https://www.rottentomatoes.com/m/the_autopsy_of_jane_doe",
+    "tmdb": "https://www.themoviedb.org/movie/397243",
+    "justwatch": "https://www.justwatch.com/br/filme/a-autopsia-de-jane-doe"
+   },
+   "posicao": 59
   },
   {
    "id": "tt11426232",
@@ -1495,7 +2376,7 @@
    "diretor": "Nahnatchka Khan",
    "nota": "Uma adolescente volta no tempo até 1987 para impedir o primeiro crime de um serial killer. Comédia de terror no espírito de “De Volta para o Futuro” encontra “Pânico”.",
    "imdb": 6.5,
-   "imdb_votos": 71428,
+   "imdb_votos": 71483,
    "tomatometer": 85,
    "rt_criticas": 110,
    "rt_media": "6.50",
@@ -1523,10 +2404,87 @@
     "tmdb": "https://www.themoviedb.org/movie/974931",
     "justwatch": "https://www.justwatch.com/br/filme/totally-killer"
    },
-   "posicao": 38
+   "posicao": 60
+  },
+  {
+   "id": "tt4443658",
+   "categoria": "filme",
+   "tier": 2,
+   "titulo": "Better Watch Out",
+   "titulo_br": "Perigo Próximo",
+   "ano": 2016,
+   "diretor": "Chris Peckham",
+   "nota": "Uma babá cuida de um garoto de 12 anos na véspera de Natal quando a casa parece estar sendo invadida. Terror natalino com uma virada cruel.",
+   "imdb": 6.5,
+   "imdb_votos": 53547,
+   "tomatometer": 89,
+   "rt_criticas": 66,
+   "rt_media": "6.90",
+   "popcornmeter": 63,
+   "metascore": 67,
+   "mc_criticas": 13,
+   "indice": 70.0,
+   "componentes": {
+    "tm": 84.6,
+    "mc": 64.0,
+    "imdb": 64.1,
+    "pop": 63.0
+   },
+   "onde_assistir": {
+    "assinatura": [],
+    "outros": "aluguel/compra: Amazon, Apple TV"
+   },
+   "obs": null,
+   "poster": "https://image.tmdb.org/t/p/w342/sfRJ6xtfaT1uUWA4YsxU3hGFJbQ.jpg",
+   "links": {
+    "imdb": "https://www.imdb.com/title/tt4443658/",
+    "rt": "https://www.rottentomatoes.com/m/better_watch_out",
+    "tmdb": "https://www.themoviedb.org/movie/406994",
+    "justwatch": "https://www.justwatch.com/br/filme/better-watch-out"
+   },
+   "posicao": 61
   }
  ],
  "series": [
+  {
+   "id": "tt6611916",
+   "categoria": "série",
+   "tier": 1,
+   "titulo": "Kingdom",
+   "titulo_br": "Kingdom",
+   "ano": 2019,
+   "diretor": "Kim Eun-hee (roteiro)",
+   "nota": "Coreia da dinastia Joseon: o príncipe herdeiro investiga uma praga que transforma mortos em monstros famintos. Zumbis de época com intriga palaciana.",
+   "imdb": 8.3,
+   "imdb_votos": 65543,
+   "tomatometer": 98,
+   "rt_criticas": 32,
+   "rt_media": "8.10",
+   "popcornmeter": 91,
+   "metascore": null,
+   "mc_criticas": null,
+   "indice": 85.9,
+   "componentes": {
+    "tm": 87.2,
+    "imdb": 82.1,
+    "pop": 91.0
+   },
+   "onde_assistir": {
+    "assinatura": [
+     "Netflix"
+    ],
+    "outros": ""
+   },
+   "obs": null,
+   "poster": "https://image.tmdb.org/t/p/w342/zXfQcdTx0jxbH5Atpwjvb5z5VjE.jpg",
+   "links": {
+    "imdb": "https://www.imdb.com/title/tt6611916/",
+    "rt": "https://www.rottentomatoes.com/tv/kingdom_2019",
+    "tmdb": "https://www.themoviedb.org/tv/70593",
+    "justwatch": "https://www.justwatch.com/br/serie/kingdeom"
+   },
+   "posicao": 1
+  },
   {
    "id": "tt33332385",
    "categoria": "série",
@@ -1537,7 +2495,7 @@
    "diretor": "Katie Dippold",
    "nota": "O prefeito (Matthew Rhys) de uma ilha amaldiçoada da Nova Inglaterra quer transformá-la em destino turístico. Terror-comédia que não economiza nos sustos de verdade.",
    "imdb": 8.1,
-   "imdb_votos": 99240,
+   "imdb_votos": 100156,
    "tomatometer": 98,
    "rt_criticas": 109,
    "rt_media": "8.50",
@@ -1565,7 +2523,89 @@
     "tmdb": "https://www.themoviedb.org/tv/270476",
     "justwatch": "https://www.justwatch.com/br/serie/widows-bay"
    },
-   "posicao": 1
+   "posicao": 2
+  },
+  {
+   "id": "tt4574334",
+   "categoria": "série",
+   "tier": 1,
+   "titulo": "Stranger Things",
+   "titulo_br": "Stranger Things",
+   "ano": 2016,
+   "diretor": "Irmãos Duffer",
+   "nota": "Hawkins, 1983: um garoto desaparece e os amigos descobrem experimentos secretos e o Mundo Invertido. A série que virou símbolo da Netflix, encerrada em 2025.",
+   "imdb": 8.6,
+   "imdb_votos": 1750411,
+   "tomatometer": 90,
+   "rt_criticas": 663,
+   "rt_media": "7.80",
+   "popcornmeter": 82,
+   "metascore": 74,
+   "mc_criticas": 174,
+   "indice": 83.2,
+   "componentes": {
+    "tm": 89.4,
+    "mc": 73.2,
+    "imdb": 86.0,
+    "pop": 82.0
+   },
+   "onde_assistir": {
+    "assinatura": [
+     "Netflix"
+    ],
+    "outros": ""
+   },
+   "obs": null,
+   "poster": "https://image.tmdb.org/t/p/w342/twfKp60THrcOIep9sjHODOOfO8d.jpg",
+   "links": {
+    "imdb": "https://www.imdb.com/title/tt4574334/",
+    "rt": "https://www.rottentomatoes.com/tv/stranger_things",
+    "tmdb": "https://www.themoviedb.org/tv/66732",
+    "justwatch": "https://www.justwatch.com/br/serie/stranger-things"
+   },
+   "posicao": 3
+  },
+  {
+   "id": "tt9055008",
+   "categoria": "série",
+   "tier": 1,
+   "titulo": "Evil",
+   "titulo_br": "Evil: Contatos Sobrenaturais",
+   "ano": 2019,
+   "diretor": "Robert e Michelle King",
+   "nota": "Uma psicóloga cética (Katja Herbers), um padre em formação (Mike Colter) e um técnico investigam supostas possessões para a Igreja Católica.",
+   "imdb": 7.7,
+   "imdb_votos": 54171,
+   "tomatometer": 96,
+   "rt_criticas": 105,
+   "rt_media": "8.20",
+   "popcornmeter": 85,
+   "metascore": 83,
+   "mc_criticas": 40,
+   "indice": 82.8,
+   "componentes": {
+    "tm": 91.8,
+    "mc": 78.4,
+    "imdb": 76.4,
+    "pop": 85.0
+   },
+   "onde_assistir": {
+    "assinatura": [
+     "Globoplay",
+     "Paramount+",
+     "Universal+ (canal no Prime Video)"
+    ],
+    "outros": ""
+   },
+   "obs": null,
+   "poster": "https://image.tmdb.org/t/p/w342/2gyQRudrRU276fvkXMq4JNq3hzB.jpg",
+   "links": {
+    "imdb": "https://www.imdb.com/title/tt9055008/",
+    "rt": "https://www.rottentomatoes.com/tv/evil",
+    "tmdb": "https://www.themoviedb.org/tv/86848",
+    "justwatch": "https://www.justwatch.com/br/serie/evil"
+   },
+   "posicao": 4
   },
   {
    "id": "tt3960394",
@@ -1577,7 +2617,7 @@
    "diretor": "Rolin Jones",
    "nota": "Louis (Jacob Anderson) conta sua vida ao lado de Lestat (Sam Reid) a um jornalista. A adaptação mais aclamada do universo de Anne Rice.",
    "imdb": 7.6,
-   "imdb_votos": 45516,
+   "imdb_votos": 45580,
    "tomatometer": 99,
    "rt_criticas": 105,
    "rt_media": "8.40",
@@ -1606,7 +2646,7 @@
     "tmdb": "https://www.themoviedb.org/tv/128098",
     "justwatch": "https://www.justwatch.com/br/serie/interview-with-the-vampire"
    },
-   "posicao": 2
+   "posicao": 5
   },
   {
    "id": "tt9813792",
@@ -1618,7 +2658,7 @@
    "diretor": "John Griffin",
    "nota": "Uma cidadezinha de onde ninguém consegue sair. À noite, criaturas com rosto humano batem à porta pedindo para entrar. Harold Perrineau lidera o elenco.",
    "imdb": 7.7,
-   "imdb_votos": 211553,
+   "imdb_votos": 212049,
    "tomatometer": 96,
    "rt_criticas": 67,
    "rt_media": "7.30",
@@ -1645,7 +2685,7 @@
     "tmdb": "https://www.themoviedb.org/tv/124364",
     "justwatch": "https://www.justwatch.com/br/serie/from"
    },
-   "posicao": 3
+   "posicao": 6
   },
   {
    "id": "tt11041332",
@@ -1657,7 +2697,7 @@
    "diretor": "Ashley Lyle e Bart Nickerson",
    "nota": "Um time feminino de futebol cai nos ermos do Canadá em 1996. Vinte e cinco anos depois, as sobreviventes escondem o que fizeram para viver. Sobrevivência, canibalismo e algo sobrenatural.",
    "imdb": 7.7,
-   "imdb_votos": 118097,
+   "imdb_votos": 118240,
    "tomatometer": 92,
    "rt_criticas": 202,
    "rt_media": "8.00",
@@ -1685,7 +2725,7 @@
     "tmdb": "https://www.themoviedb.org/tv/117488",
     "justwatch": "https://www.justwatch.com/br/serie/yellowjackets"
    },
-   "posicao": 4
+   "posicao": 7
   },
   {
    "id": "tt13623632",
@@ -1697,7 +2737,7 @@
    "diretor": "Noah Hawley",
    "nota": "O xenomorfo chega à Terra de 2120: híbridos sintéticos com mentes de crianças enfrentam a carga de uma nave que caiu. Ficção científica de terror ambiciosa.",
    "imdb": 7.1,
-   "imdb_votos": 111236,
+   "imdb_votos": 111309,
    "tomatometer": 94,
    "rt_criticas": 122,
    "rt_media": "8.30",
@@ -1725,7 +2765,83 @@
     "tmdb": "https://www.themoviedb.org/tv/157239",
     "justwatch": "https://www.justwatch.com/br/serie/alien"
    },
-   "posicao": 5
+   "posicao": 8
+  },
+  {
+   "id": "tt2708480",
+   "categoria": "série",
+   "tier": 2,
+   "titulo": "The Terror",
+   "titulo_br": "Terror",
+   "ano": 2018,
+   "diretor": "David Kajganich (1ª temporada)",
+   "nota": "Antologia: a 1ª temporada segue a expedição Franklin presa no gelo do Ártico em 1847 e caçada por algo; a 2ª, nipo-americanos em campos de internamento.",
+   "imdb": 7.8,
+   "imdb_votos": 64183,
+   "tomatometer": 87,
+   "rt_criticas": 115,
+   "rt_media": "7.70",
+   "popcornmeter": 77,
+   "metascore": 74,
+   "mc_criticas": 51,
+   "indice": 78.0,
+   "componentes": {
+    "tm": 84.5,
+    "mc": 71.7,
+    "imdb": 77.4,
+    "pop": 77.0
+   },
+   "onde_assistir": {
+    "assinatura": [],
+    "outros": "aluguel/compra: Amazon"
+   },
+   "obs": null,
+   "poster": "https://image.tmdb.org/t/p/w342/fUVn5mScv83FfwrRUUR694yA7bd.jpg",
+   "links": {
+    "imdb": "https://www.imdb.com/title/tt2708480/",
+    "rt": "https://www.rottentomatoes.com/tv/the_terror",
+    "tmdb": "https://www.themoviedb.org/tv/75191",
+    "justwatch": "https://www.justwatch.com/br/serie/the-terror"
+   },
+   "posicao": 9
+  },
+  {
+   "id": "tt5368542",
+   "categoria": "série",
+   "tier": 2,
+   "titulo": "The Exorcist",
+   "titulo_br": "O Exorcista",
+   "ano": 2016,
+   "diretor": "Jeremy Slater",
+   "nota": "Continuação do filme de 1973: dois padres enfrentam uma possessão numa família de Chicago. Foi cancelada após duas temporadas e virou cult.",
+   "imdb": 7.9,
+   "imdb_votos": 34066,
+   "tomatometer": 89,
+   "rt_criticas": 64,
+   "rt_media": "6.30",
+   "popcornmeter": 90,
+   "metascore": 62,
+   "mc_criticas": 29,
+   "indice": 77.6,
+   "componentes": {
+    "tm": 84.5,
+    "mc": 61.5,
+    "imdb": 77.8,
+    "pop": 90.0
+   },
+   "onde_assistir": {
+    "assinatura": [],
+    "outros": "Sem oferta legal encontrada no Brasil"
+   },
+   "obs": null,
+   "poster": "https://image.tmdb.org/t/p/w342/ArSVoiEq2ljNIplabxRgJtamhnB.jpg",
+   "links": {
+    "imdb": "https://www.imdb.com/title/tt5368542/",
+    "rt": "https://www.rottentomatoes.com/tv/the_exorcist",
+    "tmdb": "https://www.themoviedb.org/tv/67135",
+    "justwatch": "https://www.justwatch.com/br/serie/the-exorcist"
+   },
+   "posicao": 10
   },
   {
    "id": "tt8388390",
@@ -1737,7 +2853,7 @@
    "diretor": "Don Mancini",
    "nota": "O criador do Brinquedo Assassino leva Chucky para a TV, com Jennifer Tilly e Brad Dourif. É mais ousada e mais queer do que os filmes.",
    "imdb": 7.2,
-   "imdb_votos": 33849,
+   "imdb_votos": 33868,
    "tomatometer": 95,
    "rt_criticas": 64,
    "rt_media": "7.40",
@@ -1754,7 +2870,7 @@
    "onde_assistir": {
     "assinatura": [
      "Disney+",
-     "Prime Video",
+     "Prime Video (grátis)",
      "Universal+ (canal no Prime Video)"
     ],
     "outros": ""
@@ -1767,7 +2883,165 @@
     "tmdb": "https://www.themoviedb.org/tv/90462",
     "justwatch": "https://www.justwatch.com/br/serie/chucky"
    },
-   "posicao": 6
+   "posicao": 11
+  },
+  {
+   "id": "tt8068860",
+   "categoria": "série",
+   "tier": 2,
+   "titulo": "Servant",
+   "titulo_br": "Servant",
+   "ano": 2019,
+   "diretor": "Tony Basgallop (criação) e M. Night Shyamalan",
+   "nota": "Um casal da Filadélfia trata um boneco reborn como filho, até a babá chegar e o boneco virar um bebê de verdade.",
+   "imdb": 7.4,
+   "imdb_votos": 54459,
+   "tomatometer": 90,
+   "rt_criticas": 116,
+   "rt_media": "7.30",
+   "popcornmeter": 78,
+   "metascore": 70,
+   "mc_criticas": 40,
+   "indice": 76.9,
+   "componentes": {
+    "tm": 87.1,
+    "mc": 68.0,
+    "imdb": 73.7,
+    "pop": 78.0
+   },
+   "onde_assistir": {
+    "assinatura": [
+     "Apple TV"
+    ],
+    "outros": ""
+   },
+   "obs": "O RT classifica como Drama/Suspense, mas é terror psicológico com ocultismo: mantida.",
+   "poster": "https://image.tmdb.org/t/p/w342/aMLUWhLtpSo45ibaWvE7ws3iyy7.jpg",
+   "links": {
+    "imdb": "https://www.imdb.com/title/tt8068860/",
+    "rt": "https://www.rottentomatoes.com/tv/servant",
+    "tmdb": "https://www.themoviedb.org/tv/88055",
+    "justwatch": "https://www.justwatch.com/br/serie/servant"
+   },
+   "posicao": 12
+  },
+  {
+   "id": "tt6548228",
+   "categoria": "série",
+   "tier": 2,
+   "titulo": "Castle Rock",
+   "titulo_br": "Castle Rock",
+   "ano": 2018,
+   "diretor": "Sam Shaw e Dustin Thomason",
+   "nota": "Antologia no universo de Stephen King, na cidadezinha do Maine que aparece em vários livros dele. Sissy Spacek e Lizzy Caplan brilham.",
+   "imdb": 7.5,
+   "imdb_votos": 59192,
+   "tomatometer": 88,
+   "rt_criticas": 111,
+   "rt_media": "7.50",
+   "popcornmeter": 77,
+   "metascore": 67,
+   "mc_criticas": 44,
+   "indice": 75.9,
+   "componentes": {
+    "tm": 85.3,
+    "mc": 65.7,
+    "imdb": 74.6,
+    "pop": 77.0
+   },
+   "onde_assistir": {
+    "assinatura": [],
+    "outros": "Sem oferta legal encontrada no Brasil"
+   },
+   "obs": null,
+   "poster": "https://image.tmdb.org/t/p/w342/6dnUpv9ghx84pgxlMOb4uuJrWDs.jpg",
+   "links": {
+    "imdb": "https://www.imdb.com/title/tt6548228/",
+    "rt": "https://www.rottentomatoes.com/tv/castle_rock",
+    "tmdb": "https://www.themoviedb.org/tv/71116",
+    "justwatch": "https://www.justwatch.com/br/serie/castle-rock"
+   },
+   "posicao": 13
+  },
+  {
+   "id": "tt6905686",
+   "categoria": "série",
+   "tier": 2,
+   "titulo": "Lovecraft Country",
+   "titulo_br": "Lovecraft Country",
+   "ano": 2020,
+   "diretor": "Misha Green",
+   "nota": "Anos 50: um veterano negro cruza os EUA da segregação atrás do pai desaparecido e encontra monstros de Lovecraft e racistas igualmente mortais.",
+   "imdb": 7.1,
+   "imdb_votos": 51788,
+   "tomatometer": 88,
+   "rt_criticas": 142,
+   "rt_media": "8.10",
+   "popcornmeter": 64,
+   "metascore": 79,
+   "mc_criticas": 42,
+   "indice": 75.4,
+   "componentes": {
+    "tm": 85.8,
+    "mc": 75.3,
+    "imdb": 70.9,
+    "pop": 64.0
+   },
+   "onde_assistir": {
+    "assinatura": [
+     "HBO Max"
+    ],
+    "outros": ""
+   },
+   "obs": "O RT classifica só como Drama, mas os monstros de Lovecraft estão no centro: mantida.",
+   "poster": "https://image.tmdb.org/t/p/w342/fz7bdjxPColvEWCGr5Kiclzc86d.jpg",
+   "links": {
+    "imdb": "https://www.imdb.com/title/tt6905686/",
+    "rt": "https://www.rottentomatoes.com/tv/lovecraft_country",
+    "tmdb": "https://www.themoviedb.org/tv/82816",
+    "justwatch": "https://www.justwatch.com/br/serie/lovecraft-country"
+   },
+   "posicao": 14
+  },
+  {
+   "id": "tt7569592",
+   "categoria": "série",
+   "tier": 2,
+   "titulo": "Chilling Adventures of Sabrina",
+   "titulo_br": "O Mundo Sombrio de Sabrina",
+   "ano": 2018,
+   "diretor": "Roberto Aguirre-Sacasa",
+   "nota": "Sabrina (Kiernan Shipka), meio bruxa e meio mortal, precisa escolher entre a Igreja da Noite e a vida comum. Bem mais sombria que a versão dos anos 90.",
+   "imdb": 7.4,
+   "imdb_votos": 121088,
+   "tomatometer": 82,
+   "rt_criticas": 237,
+   "rt_media": "7.30",
+   "popcornmeter": 72,
+   "metascore": 74,
+   "mc_criticas": 36,
+   "indice": 75.0,
+   "componentes": {
+    "tm": 81.1,
+    "mc": 71.0,
+    "imdb": 73.8,
+    "pop": 72.0
+   },
+   "onde_assistir": {
+    "assinatura": [
+     "Netflix"
+    ],
+    "outros": ""
+   },
+   "obs": null,
+   "poster": "https://image.tmdb.org/t/p/w342/8hSvf5pHue3UzqBWTO9xMLPMOGn.jpg",
+   "links": {
+    "imdb": "https://www.imdb.com/title/tt7569592/",
+    "rt": "https://www.rottentomatoes.com/tv/chilling_adventures_of_sabrina",
+    "tmdb": "https://www.themoviedb.org/tv/79242",
+    "justwatch": "https://www.justwatch.com/br/serie/chilling-adventures-of-sabrina"
+   },
+   "posicao": 15
   },
   {
    "id": "tt8415836",
@@ -1779,7 +3053,7 @@
    "diretor": "Guillermo del Toro (curador)",
    "nota": "Antologia de oito contos escolhidos por del Toro, com direção de nomes como Panos Cosmatos, Jennifer Kent e Ana Lily Amirpour.",
    "imdb": 7.0,
-   "imdb_votos": 66141,
+   "imdb_votos": 66186,
    "tomatometer": 93,
    "rt_criticas": 56,
    "rt_media": "7.70",
@@ -1807,7 +3081,7 @@
     "tmdb": "https://www.themoviedb.org/tv/83659",
     "justwatch": "https://www.justwatch.com/br/serie/guillermo-del-toros-cabinet-of-curiosities"
    },
-   "posicao": 7
+   "posicao": 16
   },
   {
    "id": "tt19244304",
@@ -1819,7 +3093,7 @@
    "diretor": "Andy e Barbara Muschietti",
    "nota": "Prelúdio de IT ambientado em 1962: a Derry dos anos 60 e a origem de Pennywise (Bill Skarsgård).",
    "imdb": 7.9,
-   "imdb_votos": 122375,
+   "imdb_votos": 122666,
    "tomatometer": 81,
    "rt_criticas": 98,
    "rt_media": "7.10",
@@ -1847,7 +3121,7 @@
     "tmdb": "https://www.themoviedb.org/tv/200875",
     "justwatch": "https://www.justwatch.com/br/serie/welcome-to-derry"
    },
-   "posicao": 8
+   "posicao": 17
   },
   {
    "id": "tt13365348",
@@ -1859,7 +3133,7 @@
    "diretor": "Rebecca Sonnenshine",
    "nota": "Um arquivista (Mamoudou Athie) restaura fitas de uma documentarista desaparecida em 1994 e descobre um culto. Foi cancelada após uma temporada, mas está completa como história.",
    "imdb": 7.3,
-   "imdb_votos": 69505,
+   "imdb_votos": 69537,
    "tomatometer": 87,
    "rt_criticas": 39,
    "rt_media": "7.20",
@@ -1887,10 +3161,89 @@
     "tmdb": "https://www.themoviedb.org/tv/112314",
     "justwatch": "https://www.justwatch.com/br/serie/archive-81"
    },
-   "posicao": 9
+   "posicao": 18
   }
  ],
  "minisseries": [
+  {
+   "id": "tt6763664",
+   "categoria": "minissérie",
+   "tier": 1,
+   "titulo": "The Haunting of Hill House",
+   "titulo_br": "A Maldição da Residência Hill",
+   "ano": 2018,
+   "diretor": "Mike Flanagan",
+   "nota": "Os irmãos Crain cresceram na casa mais assombrada dos EUA e, adultos, ainda não escaparam dela. O episódio 6, em longos planos-sequência, virou referência.",
+   "imdb": 8.5,
+   "imdb_votos": 340212,
+   "tomatometer": 93,
+   "rt_criticas": 103,
+   "rt_media": "8.40",
+   "popcornmeter": 91,
+   "metascore": 79,
+   "mc_criticas": 18,
+   "indice": 83.9,
+   "componentes": {
+    "tm": 89.3,
+    "mc": 72.2,
+    "imdb": 84.8,
+    "pop": 91.0
+   },
+   "onde_assistir": {
+    "assinatura": [
+     "Netflix"
+    ],
+    "outros": ""
+   },
+   "obs": null,
+   "poster": "https://image.tmdb.org/t/p/w342/mQQGdDgn4WpUL9PXssHecWkjfi1.jpg",
+   "links": {
+    "imdb": "https://www.imdb.com/title/tt6763664/",
+    "rt": "https://www.rottentomatoes.com/tv/the_haunting_of_hill_house",
+    "tmdb": "https://www.themoviedb.org/tv/72844",
+    "justwatch": "https://www.justwatch.com/br/serie/the-haunting-of-hill-house"
+   },
+   "posicao": 1
+  },
+  {
+   "id": "tt8550800",
+   "categoria": "minissérie",
+   "tier": 1,
+   "titulo": "The Outsider",
+   "titulo_br": "The Outsider",
+   "ano": 2020,
+   "diretor": "Richard Price",
+   "nota": "Um treinador de beisebol infantil é preso por um crime brutal, mas estava em outra cidade na hora. Adaptação de Stephen King pela HBO, com Ben Mendelsohn e Cynthia Erivo.",
+   "imdb": 7.6,
+   "imdb_votos": 120606,
+   "tomatometer": 91,
+   "rt_criticas": 70,
+   "rt_media": "7.40",
+   "popcornmeter": 81,
+   "metascore": null,
+   "mc_criticas": null,
+   "indice": 81.0,
+   "componentes": {
+    "tm": 86.3,
+    "imdb": 75.8,
+    "pop": 81.0
+   },
+   "onde_assistir": {
+    "assinatura": [
+     "HBO Max"
+    ],
+    "outros": ""
+   },
+   "obs": "O RT classifica como Crime/Drama, mas a entidade sobrenatural de Stephen King está no centro: mantida.",
+   "poster": "https://image.tmdb.org/t/p/w342/sDT2ZU9Xd2dt0svfO4qYYtziVP5.jpg",
+   "links": {
+    "imdb": "https://www.imdb.com/title/tt8550800/",
+    "rt": "https://www.rottentomatoes.com/tv/the_outsider",
+    "tmdb": "https://www.themoviedb.org/tv/84661",
+    "justwatch": "https://www.justwatch.com/br/serie/the-outsider"
+   },
+   "posicao": 2
+  },
   {
    "id": "tt15567174",
    "categoria": "minissérie",
@@ -1901,7 +3254,7 @@
    "diretor": "Mike Flanagan",
    "nota": "Flanagan funde vários contos de Poe numa dinastia farmacêutica: os herdeiros de Roderick Usher morrem um a um. Elegante, venenosa e muito divertida.",
    "imdb": 7.9,
-   "imdb_votos": 139545,
+   "imdb_votos": 139704,
    "tomatometer": 91,
    "rt_criticas": 114,
    "rt_media": "8.00",
@@ -1929,7 +3282,7 @@
     "tmdb": "https://www.themoviedb.org/tv/157065",
     "justwatch": "https://www.justwatch.com/br/serie/the-fall-of-the-house-of-usher"
    },
-   "posicao": 1
+   "posicao": 3
   },
   {
    "id": "tt10574558",
@@ -1941,7 +3294,7 @@
    "diretor": "Mike Flanagan",
    "nota": "Um padre carismático chega a uma ilha pesqueira decadente, e milagres começam a acontecer. Terror religioso sobre fé, vício e culpa. Para muitos, é a obra-prima de Flanagan.",
    "imdb": 7.7,
-   "imdb_votos": 176595,
+   "imdb_votos": 176839,
    "tomatometer": 87,
    "rt_criticas": 102,
    "rt_media": "8.10",
@@ -1969,7 +3322,7 @@
     "tmdb": "https://www.themoviedb.org/tv/97400",
     "justwatch": "https://www.justwatch.com/br/serie/midnight-mass"
    },
-   "posicao": 2
+   "posicao": 4
   },
   {
    "id": "tt11540908",
@@ -1981,7 +3334,7 @@
    "diretor": "Mike Flanagan",
    "nota": "Flanagan reimagina Stephen King em 8 episódios: Summer H. Howell é Carrie White e Samantha Sloyan é a mãe fanática. Stephen King chamou a série de “brilhante”.",
    "imdb": 7.9,
-   "imdb_votos": 46766,
+   "imdb_votos": 50212,
    "tomatometer": 85,
    "rt_criticas": 133,
    "rt_media": "7.30",
@@ -1992,7 +3345,7 @@
    "componentes": {
     "tm": 83.0,
     "mc": 68.6,
-    "imdb": 78.1,
+    "imdb": 78.2,
     "pop": 82.0
    },
    "onde_assistir": {
@@ -2009,7 +3362,7 @@
     "tmdb": "https://www.themoviedb.org/tv/288673",
     "justwatch": "https://www.justwatch.com/br/serie/carrie"
    },
-   "posicao": 3
+   "posicao": 5
   },
   {
    "id": "tt9859436",
@@ -2021,7 +3374,7 @@
    "diretor": "Scott M. Gimple",
    "nota": "Seis episódios para reunir Rick Grimes (Andrew Lincoln) e Michonne (Danai Gurira). É o fecho emocional do arco do casal no universo The Walking Dead.",
    "imdb": 7.7,
-   "imdb_votos": 51573,
+   "imdb_votos": 51604,
    "tomatometer": 88,
    "rt_criticas": 30,
    "rt_media": "7.80",
@@ -2049,10 +3402,87 @@
     "tmdb": "https://www.themoviedb.org/tv/206586",
     "justwatch": "https://www.justwatch.com/br/serie/the-walking-dead-the-ones-who-live"
    },
-   "posicao": 4
+   "posicao": 6
+  },
+  {
+   "id": "tt10970552",
+   "categoria": "minissérie",
+   "tier": 2,
+   "titulo": "The Haunting of Bly Manor",
+   "titulo_br": "A Maldição da Mansão Bly",
+   "ano": 2020,
+   "diretor": "Mike Flanagan",
+   "nota": "Uma governanta americana vai cuidar de duas crianças órfãs numa mansão inglesa. Releitura de Henry James, mais romance gótico do que susto.",
+   "imdb": 7.4,
+   "imdb_votos": 148851,
+   "tomatometer": 88,
+   "rt_criticas": 105,
+   "rt_media": "7.50",
+   "popcornmeter": 69,
+   "metascore": 63,
+   "mc_criticas": 18,
+   "indice": 73.5,
+   "componentes": {
+    "tm": 85.1,
+    "mc": 61.9,
+    "imdb": 73.9,
+    "pop": 69.0
+   },
+   "onde_assistir": {
+    "assinatura": [
+     "Netflix"
+    ],
+    "outros": ""
+   },
+   "obs": null,
+   "poster": "https://image.tmdb.org/t/p/w342/V6Zy46oHLDSvL3ITh94NbL4OEo.jpg",
+   "links": {
+    "imdb": "https://www.imdb.com/title/tt10970552/",
+    "rt": "https://www.rottentomatoes.com/tv/the_haunting_of_bly_manor",
+    "tmdb": "https://www.themoviedb.org/tv/109958",
+    "justwatch": "https://www.justwatch.com/br/serie/the-haunting-of-bly-manor"
+   },
+   "posicao": 7
   }
  ],
  "radar": [
+  {
+   "id": "tt7914416",
+   "categoria": "filme",
+   "tier": 3,
+   "titulo": "One Cut of the Dead",
+   "titulo_br": "Plano-Sequência dos Mortos",
+   "ano": 2017,
+   "diretor": "Shinichiro Ueda",
+   "nota": "Uma equipe grava um terror de zumbi barato num galpão abandonado até zumbis de verdade aparecerem. Os primeiros 37 minutos são um único plano-sequência; o resto muda tudo.",
+   "imdb": 7.6,
+   "imdb_votos": 36651,
+   "tomatometer": 100,
+   "rt_criticas": 99,
+   "rt_media": "8.60",
+   "popcornmeter": 83,
+   "metascore": 86,
+   "mc_criticas": 14,
+   "indice": 81.4,
+   "componentes": {
+    "tm": 95.0,
+    "mc": 75.2,
+    "imdb": 72.4,
+    "pop": 83.0
+   },
+   "onde_assistir": {
+    "assinatura": [],
+    "outros": "Sem oferta legal encontrada no Brasil"
+   },
+   "obs": null,
+   "poster": "https://image.tmdb.org/t/p/w342/wFbAxK10CiJA1XxgJaEc16UeHTb.jpg",
+   "links": {
+    "imdb": "https://www.imdb.com/title/tt7914416/",
+    "rt": "https://www.rottentomatoes.com/m/one_cut_of_the_dead",
+    "tmdb": "https://www.themoviedb.org/movie/513434",
+    "justwatch": "https://www.justwatch.com/br/filme/kamerawozhi-meruna"
+   }
+  },
   {
    "id": "tt27802490",
    "categoria": "filme",
@@ -2063,7 +3493,7 @@
    "diretor": "Jang Jae-hyun",
    "nota": "Dois xamãs, um geomante e um agente funerário exumam um túmulo amaldiçoado. Fenômeno de bilheteria na Coreia do Sul.",
    "imdb": 6.9,
-   "imdb_votos": 31826,
+   "imdb_votos": 31872,
    "tomatometer": 93,
    "rt_criticas": 46,
    "rt_media": "7.60",
@@ -2099,7 +3529,7 @@
    "diretor": "Fede Álvarez",
    "nota": "Série experimental da Apple TV+: cada episódio é contado apenas pelo áudio de ligações telefônicas e por grafismos abstratos. Baseada na série francesa de Timothée Hochet.",
    "imdb": 7.7,
-   "imdb_votos": 8851,
+   "imdb_votos": 8853,
    "tomatometer": 95,
    "rt_criticas": 20,
    "rt_media": "8.50",
@@ -2137,7 +3567,7 @@
    "diretor": "Matthew Scott Kane",
    "nota": "Pânico satânico nos anos 80: adolescentes fingem ser uma banda satanista para ganhar fama, e a cidade surta. Bruce Campbell está no elenco.",
    "imdb": 7.0,
-   "imdb_votos": 6705,
+   "imdb_votos": 6713,
    "tomatometer": 92,
    "rt_criticas": 24,
    "rt_media": "7.00",
@@ -2166,6 +3596,45 @@
    }
   },
   {
+   "id": "tt4273292",
+   "categoria": "filme",
+   "tier": 3,
+   "titulo": "Under the Shadow",
+   "titulo_br": "Sob a Sombra",
+   "ano": 2016,
+   "diretor": "Babak Anvari",
+   "nota": "Teerã, anos 80, guerra Irã–Iraque: mãe e filha presas num prédio bombardeado passam a ser assombradas por um djinn.",
+   "imdb": 6.8,
+   "imdb_votos": 33149,
+   "tomatometer": 99,
+   "rt_criticas": 93,
+   "rt_media": "8.00",
+   "popcornmeter": 70,
+   "metascore": 83,
+   "mc_criticas": 25,
+   "indice": 77.5,
+   "componentes": {
+    "tm": 93.9,
+    "mc": 76.4,
+    "imdb": 65.9,
+    "pop": 70.0
+   },
+   "onde_assistir": {
+    "assinatura": [
+     "Netflix"
+    ],
+    "outros": "aluguel/compra: Apple TV"
+   },
+   "obs": null,
+   "poster": "https://image.tmdb.org/t/p/w342/wFzATr4s8totOxU8iZXXLvnhVzr.jpg",
+   "links": {
+    "imdb": "https://www.imdb.com/title/tt4273292/",
+    "rt": "https://www.rottentomatoes.com/m/under_the_shadow",
+    "tmdb": "https://www.themoviedb.org/movie/375012",
+    "justwatch": "https://www.justwatch.com/br/filme/under-the-shadow"
+   }
+  },
+  {
    "id": "tt4028464",
    "categoria": "filme",
    "tier": 3,
@@ -2175,7 +3644,7 @@
    "diretor": "Eskil Vogt",
    "nota": "Num conjunto habitacional norueguês, crianças descobrem poderes durante as férias de verão, e a crueldade infantil vira terror puro.",
    "imdb": 7.0,
-   "imdb_votos": 30720,
+   "imdb_votos": 30732,
    "tomatometer": 97,
    "rt_criticas": 121,
    "rt_media": "7.60",
@@ -2203,6 +3672,43 @@
    }
   },
   {
+   "id": "tt4820370",
+   "categoria": "série",
+   "tier": 3,
+   "titulo": "Channel Zero",
+   "titulo_br": "Channel Zero",
+   "ano": 2016,
+   "diretor": "Nick Antosca",
+   "nota": "Antologia baseada em creepypastas da internet: cada temporada conta uma história fechada, com terror lento e imagens perturbadoras.",
+   "imdb": 7.1,
+   "imdb_votos": 13850,
+   "tomatometer": 93,
+   "rt_criticas": 54,
+   "rt_media": "7.50",
+   "popcornmeter": 85,
+   "metascore": 76,
+   "mc_criticas": 14,
+   "indice": 77.3,
+   "componentes": {
+    "tm": 86.8,
+    "mc": 69.3,
+    "imdb": 70.7,
+    "pop": 85.0
+   },
+   "onde_assistir": {
+    "assinatura": [],
+    "outros": "Sem oferta legal encontrada no Brasil"
+   },
+   "obs": null,
+   "poster": "https://image.tmdb.org/t/p/w342/oCutmhFznao1Pzy6wM1C32kxAEu.jpg",
+   "links": {
+    "imdb": "https://www.imdb.com/title/tt4820370/",
+    "rt": "https://www.rottentomatoes.com/tv/channel_zero",
+    "tmdb": "https://www.themoviedb.org/tv/67752",
+    "justwatch": "https://www.justwatch.com/br/serie/channel-zero"
+   }
+  },
+  {
    "id": "tt32544507",
    "categoria": "série",
    "tier": 3,
@@ -2212,7 +3718,7 @@
    "diretor": "Mark Duplass e Patrick Brice",
    "nota": "Derivada dos filmes Creep: Mark Duplass volta como o serial killer que contrata cinegrafistas desavisados.",
    "imdb": 6.8,
-   "imdb_votos": 3935,
+   "imdb_votos": 3944,
    "tomatometer": 90,
    "rt_criticas": 26,
    "rt_media": "7.00",
@@ -2249,7 +3755,7 @@
    "diretor": "Phil Tippett",
    "nota": "Pesadelo em stop-motion que o mago dos efeitos de Star Wars e Jurassic Park levou cerca de 30 anos para concluir. Sem diálogos e sem concessões.",
    "imdb": 6.8,
-   "imdb_votos": 21600,
+   "imdb_votos": 21635,
    "tomatometer": 92,
    "rt_criticas": 91,
    "rt_media": "7.90",
@@ -2288,7 +3794,7 @@
    "diretor": "John Hsu",
    "nota": "Comédia de terror taiwanesa: uma fantasma novata precisa ficar “famosa” assustando os vivos para não desaparecer.",
    "imdb": 7.0,
-   "imdb_votos": 4282,
+   "imdb_votos": 4285,
    "tomatometer": 95,
    "rt_criticas": 20,
    "rt_media": "7.40",
@@ -2314,6 +3820,43 @@
     "rt": "https://www.rottentomatoes.com/m/dead_talents_society",
     "tmdb": "https://www.themoviedb.org/movie/1006724",
     "justwatch": "https://www.justwatch.com/br/filme/gui-cai-zhi-dao"
+   }
+  },
+  {
+   "id": "tt6164502",
+   "categoria": "filme",
+   "tier": 3,
+   "titulo": "November",
+   "titulo_br": "Novembro",
+   "ano": 2017,
+   "diretor": "Rainer Sarnet",
+   "nota": "Fábula estoniana em preto e branco sobre camponeses, espíritos e criaturas feitas de sucata. Folk horror poético e estranhíssimo.",
+   "imdb": 7.1,
+   "imdb_votos": 7670,
+   "tomatometer": 93,
+   "rt_criticas": 28,
+   "rt_media": "7.10",
+   "popcornmeter": 81,
+   "metascore": 79,
+   "mc_criticas": 10,
+   "indice": 73.8,
+   "componentes": {
+    "tm": 83.4,
+    "mc": 69.5,
+    "imdb": 64.2,
+    "pop": 81.0
+   },
+   "onde_assistir": {
+    "assinatura": [],
+    "outros": "Sem oferta legal encontrada no Brasil"
+   },
+   "obs": null,
+   "poster": "https://image.tmdb.org/t/p/w342/5gmQ6k4NWQQ0vlZ5KXtN3iLIPT9.jpg",
+   "links": {
+    "imdb": "https://www.imdb.com/title/tt6164502/",
+    "rt": "https://www.rottentomatoes.com/m/november_2018",
+    "tmdb": "https://www.themoviedb.org/movie/437583",
+    "justwatch": "https://www.justwatch.com/br/filme/november-2017"
    }
   }
  ]

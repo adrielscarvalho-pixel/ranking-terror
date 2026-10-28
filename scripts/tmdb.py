@@ -9,8 +9,13 @@ def get(path):
     out = subprocess.run(['curl', '-s', '--max-time', '30', '-H', f'Authorization: Bearer {TOKEN}',
                           f'https://api.themoviedb.org/3/{path}'], capture_output=True).stdout
     return json.loads(out or b'{}')
-res = {}
+try:
+    res = json.load(open(f'{S}/data/tmdb.json'))
+except FileNotFoundError:
+    res = {}
 for x in r:
+    if x['id'] in res:
+        continue
     f = get(f"find/{x['id']}?external_source=imdb_id&language=pt-BR")
     hit, kind = None, None
     for k, t in (('movie_results', 'movie'), ('tv_results', 'tv')):

@@ -861,5 +861,563 @@
     "Apple TV Store"
    ]
   }
+ },
+ "tt1051906": {
+  "pt_title": "O Homem Invisível",
+  "path": "/br/filme/the-invisible-man",
+  "offers": {
+   "FLATRATE": [
+    "Amazon Prime Video",
+    "Amazon Prime Video with Ads",
+    "Telecine Amazon Channel"
+   ],
+   "RENT": [
+    "Amazon Video",
+    "Apple TV Store"
+   ],
+   "BUY": [
+    "Amazon Video",
+    "Apple TV Store"
+   ]
+  }
+ },
+ "tt10970552": {
+  "pt_title": "A Maldição da Mansão Bly",
+  "path": "/br/serie/the-haunting-of-bly-manor",
+  "offers": {
+   "FLATRATE": [
+    "Netflix",
+    "Netflix Standard with Ads"
+   ]
+  }
+ },
+ "tt1179933": {
+  "pt_title": "Rua Cloverfield, 10",
+  "path": "/br/filme/rua-cloverfield-10",
+  "offers": {
+   "RENT": [
+    "Amazon Video",
+    "Apple TV Store"
+   ],
+   "BUY": [
+    "Amazon Video",
+    "Apple TV Store"
+   ]
+  }
+ },
+ "tt12749596": {
+  "pt_title": "Cuidado com Quem Chama",
+  "path": "/br/filme/host-2020",
+  "offers": {
+   "FLATRATE": [
+    "Amazon Prime Video",
+    "Amazon Prime Video with Ads"
+   ],
+   "ADS": [
+    "Pluto TV"
+   ],
+   "BUY": [
+    "Apple TV Store"
+   ]
+  }
+ },
+ "tt1396484": {
+  "pt_title": "It: A Coisa",
+  "path": "/br/filme/it-a-coisa",
+  "offers": {
+   "FLATRATE": [
+    "HBO Max",
+    "HBO Max Amazon Channel",
+    "Universal+ Amazon Channel"
+   ],
+   "RENT": [
+    "Amazon Video",
+    "Apple TV Store"
+   ],
+   "BUY": [
+    "Amazon Video",
+    "Apple TV Store"
+   ]
+  }
+ },
+ "tt2708480": {
+  "pt_title": "Terror",
+  "path": "/br/serie/the-terror",
+  "offers": {
+   "BUY": [
+    "Amazon Video"
+   ]
+  }
+ },
+ "tt2798920": {
+  "pt_title": "Aniquilação",
+  "path": "/br/filme/aniquilacao",
+  "offers": {
+   "FLATRATE": [
+    "Universal+ Amazon Channel"
+   ],
+   "RENT": [
+    "Amazon Video",
+    "Apple TV Store"
+   ],
+   "BUY": [
+    "Amazon Video",
+    "Apple TV Store"
+   ]
+  }
+ },
+ "tt3289956": {
+  "pt_title": "A Autópsia",
+  "path": "/br/filme/a-autopsia-de-jane-doe",
+  "offers": {
+   "FLATRATE": [
+    "Amazon Prime Video",
+    "Amazon Prime Video with Ads",
+    "Diamond Films Amazon Channel"
+   ],
+   "RENT": [
+    "Amazon Video",
+    "Apple TV Store"
+   ],
+   "BUY": [
+    "Amazon Video",
+    "Apple TV Store"
+   ]
+  }
+ },
+ "tt3748172": {
+  "pt_title": "Jogo Perigoso",
+  "path": "/br/filme/geralds-game",
+  "offers": {
+   "FLATRATE": [
+    "Netflix",
+    "Netflix Standard with Ads"
+   ]
+  }
+ },
+ "tt3986820": {
+  "pt_title": "O Culto",
+  "path": "/br/filme/the-endless",
+  "offers": {
+   "RENT": [
+    "Apple TV Store"
+   ],
+   "BUY": [
+    "Apple TV Store"
+   ]
+  }
+ },
+ "tt4093826": {
+  "pt_title": "Twin Peaks",
+  "path": "/br/serie/twin-peaks-the-return",
+  "offers": {
+   "FLATRATE": [
+    "MUBI",
+    "MUBI Amazon Channel"
+   ]
+  }
+ },
+ "tt4160708": {
+  "pt_title": "O Homem nas Trevas",
+  "path": "/br/filme/dont-breathe",
+  "offers": {
+   "FLATRATE": [
+    "Sony One Amazon Channel"
+   ],
+   "RENT": [
+    "Amazon Video",
+    "Apple TV Store"
+   ],
+   "BUY": [
+    "Amazon Video",
+    "Apple TV Store"
+   ]
+  }
+ },
+ "tt4273292": {
+  "pt_title": "Sob a Sombra",
+  "path": "/br/filme/under-the-shadow",
+  "offers": {
+   "FLATRATE": [
+    "Netflix",
+    "Netflix Standard with Ads"
+   ],
+   "RENT": [
+    "Apple TV Store"
+   ],
+   "BUY": [
+    "Apple TV Store"
+   ]
+  }
+ },
+ "tt4443658": {
+  "pt_title": "Perigo Próximo",
+  "path": "/br/filme/better-watch-out",
+  "offers": {
+   "RENT": [
+    "Amazon Video",
+    "Apple TV Store"
+   ],
+   "BUY": [
+    "Amazon Video",
+    "Apple TV Store"
+   ]
+  }
+ },
+ "tt4574334": {
+  "pt_title": "Stranger Things",
+  "path": "/br/serie/stranger-things",
+  "offers": {
+   "FLATRATE": [
+    "Netflix",
+    "Netflix Standard with Ads"
+   ]
+  }
+ },
+ "tt4820370": {
+  "pt_title": "Channel Zero",
+  "path": "/br/serie/channel-zero",
+  "offers": {}
+ },
+ "tt4954522": {
+  "pt_title": "Raw",
+  "path": "/br/filme/grave",
+  "offers": {}
+ },
+ "tt5022702": {
+  "pt_title": "Hush: A Morte Ouve",
+  "path": "/br/filme/hush-2016",
+  "offers": {
+   "ADS": [
+    "Plex",
+    "Plex Channel",
+    "Plex Player"
+   ]
+  }
+ },
+ "tt5052448": {
+  "pt_title": "Corra!",
+  "path": "/br/filme/get-out",
+  "offers": {
+   "FLATRATE": [
+    "Amazon Prime Video",
+    "Amazon Prime Video with Ads",
+    "Disney Plus",
+    "Telecine Amazon Channel"
+   ],
+   "CINEMA": [
+    "Cinemark"
+   ],
+   "RENT": [
+    "Amazon Video",
+    "Apple TV Store"
+   ],
+   "BUY": [
+    "Amazon Video",
+    "Apple TV Store"
+   ]
+  }
+ },
+ "tt5215952": {
+  "pt_title": "O Lamento",
+  "path": "/br/filme/gogseong",
+  "offers": {
+   "FLATRATE": [
+    "Adrenalina Pura Amazon channel",
+    "Adrenalina Pura Apple TV channel"
+   ],
+   "BUY": [
+    "Apple TV Store"
+   ]
+  }
+ },
+ "tt5368542": {
+  "pt_title": "O Exorcista",
+  "path": "/br/serie/the-exorcist",
+  "offers": {}
+ },
+ "tt5580540": {
+  "pt_title": "Santa Clarita Diet",
+  "path": "/br/serie/santa-clarita-diet",
+  "offers": {
+   "FLATRATE": [
+    "Netflix",
+    "Netflix Standard with Ads"
+   ]
+  }
+ },
+ "tt5700672": {
+  "pt_title": "Invasão Zumbi",
+  "path": "/br/filme/invasao-zombie",
+  "offers": {
+   "FLATRATE": [
+    "Amazon Prime Video",
+    "Amazon Prime Video with Ads",
+    "Netflix",
+    "Netflix Standard with Ads",
+    "Telecine Amazon Channel"
+   ],
+   "RENT": [
+    "Apple TV Store"
+   ],
+   "BUY": [
+    "Apple TV Store"
+   ]
+  }
+ },
+ "tt5918982": {
+  "pt_title": "Possessor",
+  "path": "/br/filme/possessor-uncut",
+  "offers": {
+   "FLATRATE": [
+    "HBO Max",
+    "HBO Max Amazon Channel"
+   ]
+  }
+ },
+ "tt6164502": {
+  "pt_title": "Novembro",
+  "path": "/br/filme/november-2017",
+  "offers": {}
+ },
+ "tt6548228": {
+  "pt_title": "Castle Rock",
+  "path": "/br/serie/castle-rock",
+  "offers": {}
+ },
+ "tt6611916": {
+  "pt_title": "Kingdom",
+  "path": "/br/serie/kingdeom",
+  "offers": {
+   "FLATRATE": [
+    "Netflix",
+    "Netflix Standard with Ads"
+   ]
+  }
+ },
+ "tt6644200": {
+  "pt_title": "Um Lugar Silencioso",
+  "path": "/br/filme/um-lugar-silencioso",
+  "offers": {
+   "FLATRATE": [
+    "Netflix",
+    "Netflix Standard with Ads",
+    "Paramount Plus",
+    "Paramount Plus Premium"
+   ],
+   "RENT": [
+    "Amazon Video",
+    "Apple TV Store"
+   ],
+   "BUY": [
+    "Amazon Video",
+    "Apple TV Store"
+   ]
+  }
+ },
+ "tt6763664": {
+  "pt_title": "A Maldição da Residência Hill",
+  "path": "/br/serie/the-haunting-of-hill-house",
+  "offers": {
+   "FLATRATE": [
+    "Netflix",
+    "Netflix Standard with Ads"
+   ]
+  }
+ },
+ "tt6857112": {
+  "pt_title": "Nós",
+  "path": "/br/filme/nos",
+  "offers": {
+   "FLATRATE": [
+    "Amazon Prime Video",
+    "Amazon Prime Video with Ads",
+    "Telecine Amazon Channel"
+   ],
+   "RENT": [
+    "Amazon Video",
+    "Apple TV Store"
+   ],
+   "BUY": [
+    "Amazon Video",
+    "Apple TV Store"
+   ]
+  }
+ },
+ "tt6905686": {
+  "pt_title": "Lovecraft Country",
+  "path": "/br/serie/lovecraft-country",
+  "offers": {
+   "FLATRATE": [
+    "HBO Max",
+    "HBO Max Amazon Channel"
+   ]
+  }
+ },
+ "tt6998518": {
+  "pt_title": "Mandy: Sede de Vingança",
+  "path": "/br/filme/mandy",
+  "offers": {
+   "RENT": [
+    "Amazon Video",
+    "Apple TV Store"
+   ],
+   "BUY": [
+    "Amazon Video",
+    "Apple TV Store"
+   ]
+  }
+ },
+ "tt7557108": {
+  "pt_title": "Santa Maud",
+  "path": "/br/filme/saint-maud",
+  "offers": {
+   "BUY": [
+    "Amazon Video",
+    "Apple TV Store"
+   ]
+  }
+ },
+ "tt7569592": {
+  "pt_title": "O Mundo Sombrio de Sabrina",
+  "path": "/br/serie/chilling-adventures-of-sabrina",
+  "offers": {
+   "FLATRATE": [
+    "Netflix",
+    "Netflix Standard with Ads"
+   ]
+  }
+ },
+ "tt7721046": {
+  "pt_title": "Los Espookys",
+  "path": "/br/serie/los-espookys",
+  "offers": {
+   "FLATRATE": [
+    "HBO Max",
+    "HBO Max Amazon Channel"
+   ]
+  }
+ },
+ "tt7784604": {
+  "pt_title": "Hereditário",
+  "path": "/br/filme/hereditario",
+  "offers": {
+   "FLATRATE": [
+    "Amazon Prime Video",
+    "Amazon Prime Video with Ads",
+    "Diamond Films Amazon Channel"
+   ],
+   "RENT": [
+    "Amazon Video",
+    "Apple TV Store"
+   ],
+   "BUY": [
+    "Amazon Video",
+    "Apple TV Store"
+   ]
+  }
+ },
+ "tt7798634": {
+  "pt_title": "Casamento Sangrento",
+  "path": "/br/filme/ready-or-not-o-ritual",
+  "offers": {
+   "FLATRATE": [
+    "Disney Plus"
+   ]
+  }
+ },
+ "tt7908628": {
+  "pt_title": "O Que Fazemos Nas Sombras",
+  "path": "/br/serie/what-we-do-in-the-shadows",
+  "offers": {
+   "FLATRATE": [
+    "Disney Plus"
+   ]
+  }
+ },
+ "tt7914416": {
+  "pt_title": "Plano-Sequência dos Mortos",
+  "path": "/br/filme/kamerawozhi-meruna",
+  "offers": {}
+ },
+ "tt7984734": {
+  "pt_title": "O Farol",
+  "path": "/br/filme/o-farol",
+  "offers": {
+   "RENT": [
+    "Amazon Video",
+    "Apple TV Store"
+   ],
+   "BUY": [
+    "Amazon Video",
+    "Apple TV Store"
+   ]
+  }
+ },
+ "tt8068860": {
+  "pt_title": "Servant",
+  "path": "/br/serie/servant",
+  "offers": {
+   "FLATRATE": [
+    "Apple TV",
+    "Apple TV Amazon Channel"
+   ]
+  }
+ },
+ "tt8332922": {
+  "pt_title": "Um Lugar Silencioso - Parte II",
+  "path": "/br/filme/um-lugar-silencioso-2",
+  "offers": {
+   "FLATRATE": [
+    "Netflix",
+    "Netflix Standard with Ads",
+    "Paramount Plus",
+    "Paramount Plus Premium",
+    "Paramount+ Amazon Channel",
+    "Universal+ Amazon Channel"
+   ],
+   "RENT": [
+    "Amazon Video",
+    "Apple TV Store"
+   ],
+   "BUY": [
+    "Amazon Video",
+    "Apple TV Store"
+   ]
+  }
+ },
+ "tt8550800": {
+  "pt_title": "The Outsider",
+  "path": "/br/serie/the-outsider",
+  "offers": {
+   "FLATRATE": [
+    "HBO Max",
+    "HBO Max Amazon Channel"
+   ]
+  }
+ },
+ "tt8633478": {
+  "pt_title": "Fuja",
+  "path": "/br/filme/run-2020",
+  "offers": {
+   "FLATRATE": [
+    "Netflix",
+    "Netflix Standard with Ads"
+   ]
+  }
+ },
+ "tt9055008": {
+  "pt_title": "Evil: Contatos Sobrenaturais",
+  "path": "/br/serie/evil",
+  "offers": {
+   "FLATRATE": [
+    "Globoplay",
+    "Paramount Plus",
+    "Paramount Plus Apple TV channel",
+    "Paramount Plus Premium",
+    "Paramount+ Amazon Channel",
+    "Universal+ Amazon Channel"
+   ]
+  }
  }
 }

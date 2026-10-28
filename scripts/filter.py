@@ -14,7 +14,7 @@ with gzip.open(f'{S}/data/title.basics.tsv.gz','rt',encoding='utf-8') as f:
         tconst,ttype,ptitle,otitle,adult,sy,ey,rt,genres=p
         if ttype not in ('movie','tvSeries','tvMiniSeries','tvMovie'): continue
         if 'Horror' not in genres: continue
-        if sy=='\\N' or int(sy)<2021: continue
+        if sy=='\\N' or int(sy)<2016: continue
         if tconst not in ratings: continue
         r,v=ratings[tconst]
         if v<3000: continue
